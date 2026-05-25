@@ -1,0 +1,42 @@
+Id,Year,Age,School,Height,Weight,Sprint_40yd,Vertical_Jump,Bench_Press_Reps,Broad_Jump,Agility_3cone,Shuttle,Player_Type,Position_Type,Position,h_int,w_int,school_clean
+2802,2009,21.0,Kentucky,1.8542,89.81128926,4.8,,8.0,,,,special_teams,kicking_specialist,P,73,198,kentucky
+2858,2012,22.0,South Carolina,1.8542,119.7483857,4.69,87.63,28.0,276.86,6.83,4.18,defense,line_backer,OLB,73,264,southcarolina
+2860,2015,,Colorado St.,1.7018,90.26488163,4.8,83.82,,287.02,7.2,4.38,offense,backs_receivers,RB,67,199,coloradost
+2871,2009,22.0,West Virginia,1.8542,112.4909078,4.78,64.77,18.0,264.16,7.35,4.75,defense,line_backer,ILB,73,248,westvirginia
+2914,2018,,Nebraska,1.8288,88.45051215,4.57,,14.0,,,,defense,defensive_back,CB,72,195,nebraska
+2920,2018,,Texas A&M,1.8288,135.1705263,5.16,74.93,20.0,266.7,7.33,4.58,defense,defensive_lineman,DT,72,298,texasam
+2921,2018,,North Texas,1.8034,95.2543977,,,15.0,,,,offense,backs_receivers,RB,71,210,northtexas
+2943,2015,22.0,South Carolina,2.0066,146.9639279,5.34,,28.0,,,,offense,offensive_lineman,OT,79,324,southcarolina
+2946,2018,,Wake Forest,1.8796,88.45051215,4.5,90.17,,297.18,6.78,4.26,defense,defensive_back,S,74,195,wakeforest
+2958,2016,22.0,Illinois,1.7526,89.81128926,4.48,87.63,21.0,304.8,,,offense,backs_receivers,RB,69,198,illinois
+2988,2018,,Indiana,1.778,79.37866475,,,,,,,defense,defensive_back,CB,70,175,indiana
+3028,2014,22.0,Baylor,1.7526,91.17206637,4.51,105.41,15.0,340.36,,,offense,backs_receivers,RB,69,201,baylor
+3029,2015,21.0,LSU,1.8542,92.07925111,4.48,91.44,,314.96,6.77,4.27,defense,defensive_back,CB,73,203,lsu
+3036,2012,22.0,North Dakota St.,1.9558,140.6136347,5.3,,25.0,,,,offense,offensive_lineman,OT,77,310,northdakotast
+3041,2015,22.0,La-Monroe,1.905,88.90410452,4.93,,,,,,special_teams,kicking_specialist,K,75,196,lamonroe
+3067,2018,20.0,USC,1.9558,124.7379018,4.73,82.55,,299.72,7.24,4.39,defense,defensive_lineman,DE,77,275,usc
+3075,2018,21.0,Texas A&M,1.8034,92.98643585,,88.9,13.0,304.8,7.25,4.37,defense,defensive_back,S,71,205,texasam
+3080,2009,21.0,Georgia,1.7526,87.99691978,4.48,88.9,22.0,292.1,6.93,4.3,defense,defensive_back,CB,69,194,georgia
+3090,2018,,Miami (FL),1.8542,87.99691978,4.46,82.55,13.0,304.8,6.95,4.25,defense,defensive_back,CB,73,194,miamifl
+3095,2015,23.0,Clemson,1.9558,135.6241186,5.01,83.82,,279.4,7.64,4.65,defense,defensive_lineman,DE,77,299,clemson
+3139,2010,23.0,Arizona St.,1.8542,110.6765383,4.62,88.9,25.0,276.86,7.08,4.3,defense,line_backer,OLB,73,244,arizonast
+3144,2015,,Notre Dame,1.8542,91.17206637,4.62,93.98,13.0,309.88,,,offense,backs_receivers,WR,73,201,notredame
+3154,2018,22.0,Penn St.,1.8796,89.81128926,4.34,104.14,16.0,332.74,6.56,4.03,defense,defensive_back,S,74,198,pennst
+3161,2015,22.0,Florida St.,1.9558,141.9744118,5.15,77.47,30.0,284.48,7.48,4.63,offense,offensive_lineman,C,77,313,floridast
+3177,2018,21.0,Florida,1.9304,131.9953797,4.98,88.9,30.0,302.26,7.12,4.48,defense,defensive_lineman,DT,76,291,florida
+3202,2018,22.0,Central Florida,1.8542,102.965468,4.38,,20.0,297.18,,,defense,line_backer,OLB,73,227,centralflorida
+3212,2014,23.0,Louisiana Tech,1.8542,151.4998516,5.27,71.12,25.0,233.68,7.81,4.75,defense,defensive_lineman,DT,73,334,louisianatech
+3213,2011,23.0,Miami (FL),1.8542,94.34721296,4.78,,8.0,,,,special_teams,kicking_specialist,P,73,208,miamifl
+3268,2015,,South Dakota St.,1.8034,101.1510985,4.6,104.14,25.0,307.34,7.08,4.14,offense,backs_receivers,FB,71,223,southdakotast
+3319,2017,22.0,Texas-El Paso,1.7526,94.34721296,4.56,95.25,16.0,322.58,6.82,4.2,offense,backs_receivers,RB,69,208,texaselpaso
+3359,2018,21.0,Pittsburgh,1.7526,81.6466266,4.39,93.98,13.0,317.5,6.51,4.0,defense,defensive_back,CB,69,180,pittsburgh
+3368,2013,22.0,LSU,1.7526,95.2543977,4.5,97.79,25.0,330.2,6.87,4.25,offense,backs_receivers,RB,69,210,lsu
+3369,2018,20.0,Pittsburgh,1.8034,88.45051215,,,21.0,,,,defense,defensive_back,S,71,195,pittsburgh
+3376,2018,22.0,Alabama,1.9304,145.6031508,,,21.0,,,,defense,defensive_lineman,DT,76,321,alabama
+3378,2019,,Elon,1.9558,146.5103355,5.05,72.39,26.0,266.7,7.88,5.05,offense,offensive_lineman,OT,77,323,elon
+3386,2015,22.0,Stanford,1.8034,95.70799007,4.65,81.28,13.0,281.94,6.74,4.22,defense,defensive_back,SS,71,211,stanford
+3397,2018,21.0,Iowa,1.8542,87.08973504,4.56,96.52,18.0,312.42,6.86,4.03,defense,defensive_back,CB,73,192,iowa
+3434,2018,,Louisiana-Lafayette,1.8796,90.718474,4.51,83.82,14.0,302.26,7.0,4.28,defense,defensive_back,S,74,200,louisianalafayette
+3451,2016,21.0,Mississippi,1.905,133.3561568,4.87,88.9,28.0,294.64,,,defense,defensive_lineman,DT,75,294,mississippi
+3464,2010,23.0,Maryland,1.8034,92.53284348,4.42,,,,,,defense,defensive_back,CB,71,204,maryland
+3467,2009,22.0,Virginia,1.7526,97.97595192,4.34,101.6,27.0,297.18,6.99,4.29,offense,backs_receivers,RB,69,216,virginia
