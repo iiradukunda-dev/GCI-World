@@ -1,4 +1,4 @@
-# [README] Competition: NFL Draft Prediction
+#Competition: NFL Draft Prediction
 ## GCI World 2026 April
 ### Competition Starts: April 29th 12PM UTC
 ### Competition Ends: ~~June 10th 11AM UTC~~ June 12th 11AM UTC (date corrected on May 12th)
