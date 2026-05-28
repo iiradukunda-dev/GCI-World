@@ -1,0 +1,459 @@
+Id,Year,Position,School,clean_school,Height,Weight,best_name,best_pos,best_school,best_penalty,best_draft_ovr,margin,second_name,second_drafted,same_school_not_drafted_count,same_school_drafted_count,in_draft_picks
+2781,2017,OG,Pittsburgh,pittsburgh,1.9558,136.077711,Dorian Johnson,OG,Pittsburgh,-7.0,115.0,1.7,Adam Bisnowaty,True,1,5,True
+2782,2013,CB,William & Mary,williammary,1.778,83.46099608,B.W. Webb,CB,William & Mary,-7.0,114.0,5.02,Johnny Adams,False,0,1,True
+2783,2018,RB,Alabama,alabama,1.8542,103.4190604,Bo Scarbrough,RB,Alabama,-7.0,236.0,4.45,Shaun dion Hamilton,True,4,10,True
+2784,2009,RB,Georgia,georgia,1.8034,98.42954429,Knowshon Moreno,RB,Georgia,-7.0,12.0,3.57,Mohamed Massaquoi,True,2,6,True
+2785,2018,CB,Alabama,alabama,1.8288,83.91458845,Anthony Averett,CB,Alabama,-7.0,118.0,0.06,Levi Wallace,False,4,10,True
+2789,2013,TE,Michigan St.,michiganst,1.9558,118.8412009,Dion Sims,TE,Michigan State,-7.0,106.0,5.78,Travis Kelce,True,1,3,True
+2790,2010,DE,USC,southerncalifornia,1.905,123.830717,Everson Griffen,DE,USC,-7.0,100.0,5.4,Greg Middleton,False,4,7,True
+2791,2014,DE,Missouri,missouri,1.9304,123.830717,Kony Ealy,DE,Missouri,-7.0,60.0,4.07,Michael Sam,True,3,4,True
+2792,2016,CB,Virginia,virginia,1.8542,87.54332741,Maurice Canady,CB,Virginia,-7.0,209.0,5.4,Deandre Elliott,False,0,1,True
+2795,2013,ILB,Florida,florida,1.8288,110.2229459,Jelani Jenkins,ILB,Florida,-7.0,104.0,1.51,Jon Bostic,True,2,8,True
+2796,2011,WR,Alabama,alabama,1.905,99.7903214,Julio Jones,WR,Alabama,-7.0,6.0,1.45,Greg McElroy,True,0,5,True
+2798,2009,OT,Alabama,alabama,1.9304,150.5926668,Andre Smith,OT,Alabama,-7.0,6.0,5.45,Cornelius Lewis,False,1,4,True
+2801,2011,WR,Pittsburgh,pittsburgh,1.9304,103.4190604,Jon Baldwin,WR,Pittsburgh,-7.0,26.0,1.59,Pat Devlin,False,2,5,False
+2803,2009,DE,LSU,louisianastate,1.9304,134.2633415,Tyson Jackson,DE,LSU,-7.0,3.0,1.46,Ricky Jean-Francois,True,3,6,True
+2804,2017,OLB,West Georgia,westgeorgia,1.905,112.4909078,Dylan Donahue,OLB,West Georgia,-7.0,181.0,5.02,Tyus Bowser,True,0,1,True
+2807,2014,WR,Clemson,clemson,1.9304,95.70799007,Martavis Bryant,WR,Clemson,-7.0,118.0,4.02,Sammy Watkins,True,0,5,True
+2808,2012,CB,LSU,louisianastate,1.8034,85.27536556,Morris Claiborne,CB,LSU,-7.0,6.0,0.51,Ron Brooks,True,3,5,True
+2810,2011,DE,California,california,1.9304,130.1810102,Cameron Jordan,DE,California,-7.0,24.0,5.25,Christian Ballard,True,0,4,True
+2811,2016,QB,Indiana,indiana,1.9812,106.1406146,Nate Sudfeld,QB,Indiana,-7.0,187.0,5.51,Joel Stave,False,1,3,True
+2812,2016,CB,Florida,florida,1.778,92.53284348,Vernon Hargreaves III,CB,Florida,-7.0,11.0,3.57,Keanu Neal,True,1,7,True
+2814,2009,FB,Syracuse,syracuse,1.8288,111.1301307,Tony Fiammetta,FB,Syracuse,-7.0,128.0,5.14,Marcus Mailei,False,0,1,True
+2815,2014,TE,Notre Dame,notredame,1.9812,122.4699399,Troy Niklas,TE,Notre Dame,-7.0,52.0,5.46,Nic Jacobs,False,1,8,True
+2817,2012,OG,Syracuse,syracuse,1.9304,146.9639279,Andrew Tiller,OG,Syracuse,-7.0,179.0,5.02,Johnnie Troutman,True,1,3,True
+2818,2014,DE,South Carolina,southcarolina,1.9558,120.6555704,Jadeveon Clowney,DE,South Carolina,-7.0,1.0,5.0,Kerry Wynn,False,3,2,True
+2819,2016,WR,Mississippi,mississippi,1.8796,100.2439138,Laquon Treadwell,WR,Mississippi,-7.0,23.0,4.51,Cody Core,True,1,5,True
+2820,2016,RB,Notre Dame,notredame,1.8288,99.7903214,C.J. Prosise,RB,Notre Dame,-7.0,90.0,4.25,Elijah Shumate,False,3,7,True
+2821,2016,CB,North Carolina St.,northcarolinast,1.8288,96.16158244,Juston Burris,CB,North Carolina State,-7.0,118.0,4.4,Shadrach Thornton,False,2,3,True
+2823,2013,WR,Tennessee,tennessee,1.8796,97.97595192,Cordarrelle Patterson,WR,Tennessee,-7.0,29.0,5.02,Aaron Mellette,True,1,4,True
+2826,2018,OT,Ohio St.,ohiost,1.9304,135.6241186,Jamarco Jones,OT,Ohio State,-7.0,168.0,1.57,Billy Price,True,4,7,True
+2827,2012,OT,Auburn,auburn,1.9812,142.4280042,Brandon Mosley,OT,Auburn,-7.0,131.0,5.02,Andrew Datko,True,1,1,True
+2830,2011,OT,Florida,florida,1.9812,149.6854821,Marcus Gilbert,OT,Florida,-7.0,63.0,5.25,Chris Hairston,True,3,4,True
+2831,2011,DT,Oregon St.,oregonst,1.8542,137.4384881,Stephen Paea,DT,Oregon State,-7.0,53.0,4.46,Alex Linnenkohl,False,1,2,True
+2833,2012,OLB,Oklahoma,oklahoma,1.8796,114.7588696,Ronnell Lewis,OLB,Oklahoma,-7.0,125.0,1.22,Travis Lewis,True,0,7,True
+2834,2015,QB,Oregon St.,oregonst,1.9812,103.8726527,Sean Mannion,QB,Oregon State,-7.0,89.0,6.79,Brandon Bridge,False,0,3,True
+2837,2019,QB,Auburn,auburn,1.8796,98.88313666,Jarrett Stidham,QB,Auburn,-7.0,133.0,5.02,Will Grier,True,1,5,True
+2839,2014,OG,Notre Dame,notredame,1.905,140.6136347,Chris Watt,OG,Notre Dame,-7.0,89.0,0.51,Zack Martin,True,1,8,True
+2840,2014,CB,Maryland,maryland,1.778,88.90410452,Dexter McDougle,CB,Maryland,-7.0,80.0,5.45,Todd Washington,False,0,1,True
+2841,2017,DT,Akron,akron,1.8542,144.695966,D.J. Jones,DT,Akron,-7.0,198.0,5.57,Elijah Qualls,True,1,1,True
+2843,2013,ILB,Iowa St.,iowast,1.8542,113.3980925,A.J. Klein,ILB,Iowa State,-7.0,148.0,2.22,Jake Knott,False,1,1,True
+2844,2015,RB,Georgia,georgia,1.8542,100.6975061,Todd Gurley,RB,Georgia,-7.0,10.0,2.73,Chris Conley,True,0,5,True
+2848,2013,DT,Missouri Southern,missourisouthern,1.8542,151.953444,Brandon Williams,DT,Missouri Southern,-7.0,94.0,9.07,Jesse Williams,True,0,1,True
+2850,2011,ILB,North Carolina St.,northcarolinast,1.8542,108.8621688,Nate Irving,ILB,North Carolina State,-7.0,67.0,5.02,Quan Sturdivant,True,1,1,True
+2851,2013,RB,Alabama,alabama,1.8034,104.7798375,Eddie Lacy,RB,Alabama,-7.0,61.0,5.25,Knile Davis,True,2,8,True
+2852,2010,OLB,Texas,texas,1.8796,111.583723,Roddrick Muckelroy,OLB,Texas,-7.0,131.0,0.7,Sergio Kindle,True,1,6,True
+2853,2018,WR,Penn St.,pennst,1.8542,92.07925111,Daesean Hamilton,WR,Penn State,-7.0,113.0,4.46,Marcus Allen,True,3,5,True
+2854,2015,OT,Florida,florida,1.9558,142.4280042,Chaz Green,OT,Florida,-7.0,91.0,0.78,D.J. Humphries,True,2,7,True
+2856,2015,TE,Ohio St.,ohiost,1.9558,115.212462,Jeff Heuerman,TE,Ohio State,-7.0,92.0,5.02,Ben Koyack,True,0,4,True
+2857,2012,C,Michigan,michigan,1.8542,135.1705263,David Molk,C,Michigan,-7.0,226.0,5.02,Mike Martin,True,0,3,True
+2858,2012,OLB,South Carolina,southcarolina,1.8542,119.7483857,Melvin Ingram,OLB,South Carolina,-7.0,18.0,5.45,Jonathan Massaquoi,True,0,6,True
+2859,2014,RB,Wisconsin,wisconsin,1.7526,92.53284348,James White,RB,Wisconsin,-7.0,130.0,5.14,Lache Seastrunk,True,2,4,True
+2861,2013,WR,West Virginia,westvirginia,1.778,87.54332741,Stedman Bailey,WR,West Virginia,-7.0,92.0,5.0,Alan Bonner,True,1,3,True
+2862,2014,DT,Princeton,princeton,1.8796,136.9848957,Caraun Reid,DT,Princeton,-7.0,158.0,5.14,Timmy Jernigan,True,0,1,True
+2863,2009,CB,Maryland,maryland,1.8288,84.82177319,Kevin Barnes,CB,Maryland,-7.0,80.0,5.06,Coye Francies,True,1,5,True
+2864,2018,WR,Clemson,clemson,1.7526,86.1825503,Ray-ray McCloud,WR,Clemson,-7.0,187.0,5.46,Steven Mitchell,False,2,3,True
+2866,2015,DT,Arkansas,arkansas,1.8542,135.1705263,Darius Philon,DT,Arkansas,-7.0,192.0,5.57,Grady Jarrett,True,1,3,True
+2868,2012,DT,South Carolina,southcarolina,1.9304,136.9848957,Travian Robertson,DT,South Carolina,-7.0,249.0,5.14,Kendall Reyes,True,0,6,True
+2870,2017,DE,Kansas St.,kansasst,1.9304,115.6660544,Jordan Willis,DE,Kansas State,-7.0,73.0,5.51,Ken Ekanem,False,0,1,True
+2873,2015,WR,Connecticut,connecticut,1.8796,97.97595192,Geremy Davis,WR,Connecticut,-7.0,186.0,5.02,Jaelen Strong,True,0,2,True
+2875,2010,WR,Clemson,clemson,1.7526,84.36818082,Jacoby Ford,WR,Clemson,-7.0,108.0,4.37,C.J. Spiller,True,1,5,True
+2879,2019,S,Miami (FL),miamifl,1.8288,88.90410452,Sheldrick Redwine,S,Miami (FL),-7.0,119.0,2.18,Jaquan Johnson,True,1,5,True
+2881,2009,OLB,Virginia,virginia,1.905,116.1196467,Clint Sintim,OLB,Virginia,-7.0,45.0,5.45,Connor Barwin,True,1,4,True
+2882,2019,S,Delaware,delaware,1.8288,93.44002822,Nasir Adderley,S,Delaware,-7.0,60.0,5.02,Juan Thornhill,True,0,1,True
+2883,2010,OT,Vanderbilt,vanderbilt,1.9812,139.2528576,Thomas Welch,OT,Vanderbilt,-7.0,208.0,5.25,Kyle Jolly,False,0,2,True
+2884,2012,SS,LSU,louisianastate,1.8034,94.80080533,Brandon Taylor,S,LSU,-3.0,73.0,5.02,Delano Howell,False,3,5,True
+2885,2016,CB,Southern Utah,southernutah,1.8288,92.07925111,Leshaun Sims,CB,Southern Utah,-7.0,157.0,5.06,Xavien Howard,True,1,2,True
+2886,2012,QB,Tenn-Chattanooga,tennchattanooga,1.905,105.6870222,B.J. Coleman,QB,Tenn-Chattanooga,-7.0,243.0,5.46,Andrew Luck,True,0,1,True
+2887,2014,OG,Boise St.,boisest,1.9304,137.4384881,Charles Leno,OG,Boise State,-7.0,246.0,1.59,Matt Paradis,True,0,3,False
+2889,2009,OLB,Northern Illinois,northernillinois,1.8796,115.6660544,Larry English,OLB,Northern Illinois,-7.0,16.0,5.02,Aaron Curry,True,0,1,True
+2891,2017,DT,Oklahoma St.,oklahomast,1.905,137.8920805,Vincent Taylor,DT,Oklahoma State,-7.0,194.0,5.02,Eddie Vanderdoes,True,1,2,True
+2892,2012,RB,San Diego St.,sandiegost,1.7526,90.718474,Ronnie Hillman,RB,San Diego State,-7.0,67.0,5.59,Isaiah Pead,True,1,3,True
+2893,2010,SS,Georgia,georgia,1.8542,97.06876718,Reshad Jones,S,Georgia,-3.0,163.0,5.0,Josh Pinkard,False,0,4,True
+2894,2015,OT,Wisconsin,wisconsin,2.0066,145.6031508,Rob Havenstein,OT,Wisconsin,-7.0,57.0,5.14,Corey Robinson,True,0,2,True
+2897,2016,DT,Alabama,alabama,1.905,139.2528576,Jarran Reed,DT,Alabama,-7.0,49.0,0.45,A'Shawn Robinson,True,2,7,True
+2898,2017,OLB,Vanderbilt,vanderbilt,1.905,106.1406146,Zach Cunningham,OLB,Vanderbilt,-7.0,57.0,5.51,Devonte Fields,False,0,2,True
+2899,2010,DE,South Florida,southflorida,1.9304,114.3052772,George Selvie,DE,South Florida,-7.0,226.0,5.06,Lindsey Witten,False,1,5,True
+2901,2013,FB,Wake Forest,wakeforest,1.8542,111.583723,Tommy Bohanon,FB,Wake Forest,-7.0,215.0,7.18,Braden Wilson,True,0,1,True
+2902,2016,SS,Clemson,clemson,1.9304,97.97595192,Jayron Kearse,S,Clemson,-3.0,244.0,2.57,T.J. Green,True,0,8,True
+2904,2018,C,Michigan St.,michiganst,1.8542,135.1705263,Brian Allen,C,Michigan State,-7.0,111.0,7.36,Coleman Shelton,False,0,1,True
+2905,2015,DE,LSU,louisianastate,1.9558,114.3052772,Danielle Hunter,DE,LSU,-7.0,88.0,5.51,Ryan Delaire,False,2,4,True
+2910,2013,DT,Ohio St.,ohiost,1.905,145.1495584,Johnathan Hankins,DT,Ohio State,-7.0,49.0,5.14,Jesse Williams,True,4,3,True
+2911,2017,OLB,Boston Col.,bostoncol,1.8288,101.1510985,Matt Milano,OLB,Boston Col.,-7.0,163.0,5.78,Jalen Reeves-Maybin,True,0,1,True
+2912,2009,RB,Liberty,liberty,1.8542,104.7798375,Rashad Jennings,RB,Liberty,-7.0,250.0,5.25,Beanie Wells,True,0,1,True
+2915,2013,TE,Rice,rice,1.9304,121.1091628,Vance McDonald,TE,Rice,-7.0,55.0,5.84,Dion Sims,True,0,1,True
+2916,2017,FS,Washington,washington,1.778,88.45051215,Budda Baker,S,Washington,-3.0,36.0,1.22,John Ross,True,2,5,True
+2917,2013,RB,Nebraska,nebraska,1.778,97.06876718,Rex Burkhead,RB,Nebraska,-7.0,190.0,5.0,Montee Ball,True,1,2,True
+2918,2019,S,Oregon,oregon,1.7526,90.26488163,Ugo Amadi,S,Oregon,-7.0,132.0,5.84,D'Cota Dixon,False,0,4,True
+2919,2009,DE,USC,southerncalifornia,1.9558,123.3771246,Kyle Moore,DE,USC,-7.0,117.0,5.57,Matt Shaughnessy,True,0,11,True
+2922,2012,OT,Ohio St.,ohiost,2.0066,146.5103355,Mike Adams,OT,Ohio State,-7.0,56.0,5.59,Marcel Jones,True,1,3,True
+2923,2010,TE,Pittsburgh,pittsburgh,1.8542,102.5118756,Dorin Dickerson,TE,Pittsburgh,-7.0,227.0,6.4,Mike Williams,True,0,2,True
+2925,2018,S,West Virginia,westvirginia,1.8796,97.97595192,Kyzir White,S,West Virginia,-7.0,119.0,5.02,Quin Blanding,False,2,1,True
+2926,2019,OT,Ohio St.,ohiost,1.9812,141.5208194,Michael Jordan,OT,Ohio State,-7.0,136.0,0.78,Isaiah Prince,True,1,9,True
+2929,2015,DT,Fresno St.,fresnost,1.8796,143.3351889,Tyeler Davison,DT,Fresno State,-7.0,154.0,5.14,Malcom Brown,True,1,2,True
+2930,2010,WR,Arizona St.,arizonast,1.778,85.27536556,Kyle Williams,WR,Arizona State,-7.0,206.0,5.06,Antonio Brown,True,1,4,True
+2932,2013,CB,Iowa,iowa,1.8288,89.35769689,Micah Hyde,CB,Iowa,-7.0,159.0,5.06,Terry Hawthorne,True,1,1,True
+2933,2018,WR,Texas A&M,texasam,1.778,91.17206637,Christian Kirk,WR,Texas A&M,-7.0,47.0,4.7,Armani Watts,True,2,2,True
+2934,2018,C,Michigan,michigan,1.9304,139.2528576,Mason Cole,C,Michigan,-7.0,97.0,5.06,Billy Price,True,1,2,True
+2935,2014,DT,Arkansas St.,arkansasst,1.8542,152.8606287,Ryan Carrethers,DT,Arkansas State,-7.0,165.0,5.14,Justin Ellis,True,0,1,True
+2937,2016,OT,Ohio St.,ohiost,2.0066,140.6136347,Taylor Decker,OT,Ohio State,-7.0,16.0,5.45,Parker Ehinger,True,2,12,True
+2938,2011,RB,Oregon St.,oregonst,1.6764,88.90410452,Jacquizz Rodgers,RB,Oregon State,-7.0,145.0,5.59,Kendall Hunter,True,1,2,True
+2939,2014,OT,North Dakota St.,northdakotast,1.9558,142.8815966,Billy Turner,OT,North Dakota State,-7.0,67.0,5.46,Morgan Moses,True,0,1,True
+2941,2017,RB,North Carolina St.,northcarolinast,1.7526,92.98643585,Matthew Dayes,RB,North Carolina State,-7.0,252.0,5.14,Aaron Jones,True,0,3,True
+2942,2015,DE,Oregon St.,oregonst,1.9558,111.583723,Obum Gwacham,DE,Oregon State,-7.0,209.0,5.57,Danielle Hunter,True,0,3,True
+2943,2015,OT,South Carolina,southcarolina,2.0066,146.9639279,Corey Robinson,OT,South Carolina,-7.0,240.0,5.14,Rob Havenstein,True,1,4,True
+2945,2012,DE,Boise St.,boisest,1.9304,133.3561568,Billy Winn,DE,Boise State,-7.0,205.0,5.73,Tyrone Crawford,True,1,6,True
+2946,2018,S,Wake Forest,wakeforest,1.8796,88.45051215,Jessie Bates,S,Wake Forest,-7.0,54.0,5.14,Troy Apke,True,0,2,False
+2947,2017,OT,Florida,florida,1.9812,155.5821829,David Sharpe,OT,Florida,-7.0,129.0,7.37,Javarius Leamon,False,1,7,True
+2948,2013,DE,Florida St.,floridast,1.905,120.6555704,Bjoern Werner,DE,Florida State,-7.0,24.0,2.03,Tank Carradine,True,3,10,True
+2949,2012,CB,Montana,montana,1.8796,92.53284348,Trumaine Johnson,CB,Montana,-7.0,65.0,5.7,Robert Blanton,True,0,2,True
+2950,2009,SS,Rutgers,rutgers,1.8288,96.16158244,Courtney Greene,S,Rutgers,-3.0,245.0,4.59,Kenny Britt,True,0,3,True
+2952,2017,CB,Florida,florida,1.8288,90.26488163,Teez Tabor,CB,Florida,-7.0,53.0,2.73,Quincy Wilson,True,1,7,True
+2953,2009,RB,Texas A&M,texasam,1.8288,94.34721296,Mike Goodson,RB,Texas A&M,-7.0,111.0,5.02,Glen Coffee,True,2,2,True
+2956,2016,WR,Colorado St.,coloradost,1.8542,88.90410452,Rashard Higgins,WR,Colorado State,-7.0,172.0,5.02,Tyler Boyd,True,1,1,True
+2957,2011,RB,North Carolina,northcarolina,1.778,94.80080533,Johnny White,RB,North Carolina,-7.0,133.0,0.7,Shaun Draughn,False,4,8,True
+2960,2016,OLB,Vanderbilt,vanderbilt,1.9304,121.1091628,Stephen Weatherly,OLB,Vanderbilt,-7.0,227.0,6.46,Jordan Jenkins,True,0,1,True
+2961,2014,DE,Boise St.,boisest,1.905,113.8516849,Demarcus Lawrence,DE,Boise State,-7.0,34.0,5.0,Marcus Smith,True,0,3,True
+2962,2010,OLB,Wisconsin,wisconsin,1.8796,100.2439138,O'Brien Schofield,OLB,Wisconsin,-7.0,130.0,6.29,Daryl Washington,True,0,2,True
+2963,2016,DT,Notre Dame,notredame,1.8542,132.9025644,Sheldon Day,DT,Notre Dame,-7.0,103.0,5.51,Connor Wujciak,False,3,7,True
+2965,2014,OG,Nevada,nevada,1.9304,136.9848957,Joel Bitonio,OG,Nevada,-7.0,35.0,5.02,Charles Leno,True,0,1,True
+2966,2009,SS,Clemson,clemson,1.8796,97.06876718,Michael Hamlin,S,Clemson,-3.0,166.0,2.36,Chris Clemons,True,2,4,True
+2968,2014,C,Ohio St.,ohiost,1.905,134.2633415,Corey Linsley,C,Ohio State,-7.0,161.0,5.06,Weston Richburg,True,1,5,True
+2969,2013,OT,Colorado,colorado,1.9304,135.6241186,David Bakhtiari,OT,Colorado,-7.0,109.0,5.46,Tanner Hawkinson,True,0,2,True
+2972,2012,WR,Arizona,arizona,1.8796,101.6046909,Juron Criner,WR,Arizona,-7.0,168.0,5.46,Junior Hemingway,True,0,3,True
+2973,2013,CB,Mississippi St.,mississippist,1.8288,87.08973504,Darius Slay,CB,Mississippi State,-7.0,36.0,2.57,Johnthan Banks,True,0,3,True
+2975,2009,DT,Georgia Tech,georgiatech,1.8796,137.4384881,Darryl Richard,DT,Georgia Tech,-7.0,234.0,0.02,Vance Walker,True,1,4,True
+2976,2019,OT,Utah,utah,2.0066,140.6136347,Jackson Barton,OT,Utah,-7.0,240.0,5.46,Trey Pipkins,True,1,5,True
+2977,2013,DE,Florida St.,floridast,1.9304,125.1914941,Tank Carradine,DE,Florida State,-7.0,40.0,2.03,Bjoern Werner,True,3,10,True
+2979,2011,RB,Connecticut,connecticut,1.7526,92.07925111,Jordan Todman,RB,Connecticut,-7.0,183.0,5.51,Graig Cooper,False,2,4,True
+2980,2011,OLB,Syracuse,syracuse,1.8796,106.594207,Doug Hogue,OLB,Syracuse,-7.0,157.0,3.8,Derrell Smith,False,2,2,True
+2981,2015,WR,Oklahoma,oklahoma,1.9558,107.5013917,Dorial Green-Beckham,WR,Oklahoma,-7.0,40.0,5.02,Blake Bell,True,2,6,True
+2982,2015,DE,Memphis,memphis,1.905,124.7379018,Martin Ifedi,DE,Memphis,-7.0,227.0,5.25,"Mario Edwards, Jr.",True,1,2,True
+2984,2013,WR,Baylor,baylor,1.8796,94.34721296,Terrance Williams,WR,Baylor,-7.0,74.0,4.28,Lanear Sampson,False,1,1,True
+2985,2009,QB,Purdue,purdue,1.905,102.0582833,Curtis Painter,QB,Purdue,-7.0,201.0,5.0,Jason Boltus,False,2,2,True
+2986,2017,CB,Michigan,michigan,1.778,85.27536556,Jourdan Lewis,CB,Michigan,-7.0,92.0,4.02,Channing Stribling,False,3,11,True
+2987,2016,OT,Mississippi,mississippi,1.9558,140.6136347,Laremy Tunsil,OT,Mississippi,-7.0,13.0,1.22,Fahn Cooper,True,1,5,True
+2989,2011,OG,Appalachian St.,appalachianst,1.905,139.70645,Daniel Kilgore,OG,Appalachian State,-7.0,163.0,5.0,Ricky Henry,False,0,3,True
+2993,2019,TE,Alabama,alabama,1.8796,109.7693535,Irv Smith,TE,Alabama,-7.0,50.0,4.51,Mack Wilson,True,1,10,True
+2995,2010,C,Florida,florida,1.9304,137.8920805,Maurkice Pouncey,C,Florida,-7.0,18.0,5.06,Eric Olsen,True,1,9,True
+2996,2012,WR,LSU,louisianastate,1.905,95.2543977,Rueben Randle,WR,LSU,-7.0,63.0,4.13,Jordan Jefferson,False,3,5,True
+2997,2013,DE,Florida St.,floridast,1.8796,113.8516849,Brandon Jenkins,DE,Florida State,-7.0,162.0,4.02,Bjoern Werner,True,3,10,True
+2998,2017,DE,Youngstown St.,youngstownst,1.905,119.7483857,Avery Moss,DE,Youngstown State,-7.0,167.0,4.51,Derek Rivers,True,0,2,True
+2999,2010,OG,Illinois,illinois,1.9304,138.3456729,Jon Asamoah,OG,Illinois,-7.0,68.0,5.0,Kurtis Gregory,False,0,3,True
+3000,2017,SS,Colorado,colorado,1.8288,92.53284348,Tedric Thompson,S,Colorado,-3.0,111.0,0.06,Chidobe Awuzie,True,1,3,True
+3001,2017,DE,Auburn,auburn,1.8796,118.3876086,Carl Lawson,DE,Auburn,-7.0,116.0,5.4,Joe Mathis,False,0,3,True
+3002,2009,WR,Oregon St.,oregonst,1.7526,85.72895793,Sammie Stroughter,WR,Oregon State,-7.0,233.0,5.22,Brandon Hughes,True,0,5,True
+3004,2013,OT,Alabama,alabama,1.9558,153.7678134,D.J. Fluker,OT,Alabama,-7.0,11.0,5.84,Rogers Gaines,False,2,8,True
+3005,2012,OG,Wisconsin,wisconsin,1.9304,142.4280042,Kevin Zeitler,OG,Wisconsin,-7.0,27.0,1.45,Peter Konz,True,1,6,True
+3006,2019,TE,Georgia,georgia,1.905,110.6765383,Isaac Nauta,TE,Georgia,-7.0,224.0,5.22,D'Andre Walker,True,2,7,True
+3007,2016,DT,Nebraska,nebraska,1.8796,141.0672271,Maliek Collins,DT,Nebraska,-7.0,67.0,5.45,Andrew Billings,True,0,4,True
+3008,2018,DE,California,california,1.905,130.1810102,James Looney,DE,California,-7.0,232.0,5.7,John Franklin-Myers,True,0,1,True
+3009,2014,SS,San Diego St.,sandiegost,1.778,87.54332741,Nat Berhe,S,San Diego State,-3.0,152.0,1.29,Adam Muema,False,1,1,True
+3010,2015,DE,Miami (FL),miamifl,1.905,121.1091628,Anthony Chickillo,DE,Miami (FL),-7.0,212.0,5.0,Owamagbe Odighizuwa,True,1,7,True
+3013,2019,OT,Sioux Falls,siouxfalls,1.9812,140.1600423,Trey Pipkins,OT,Sioux Falls,-7.0,91.0,5.02,David Edwards,True,0,1,True
+3014,2015,WR,Maryland,maryland,1.8288,88.45051215,Stefon Diggs,WR,Maryland,-7.0,146.0,0.14,Deon Long,False,2,1,True
+3015,2012,CB,Alabama,alabama,1.8034,91.62565874,DeQuan Menzie,CB,Alabama,-7.0,146.0,4.71,Mark Barron,True,2,7,True
+3016,2017,OT,Florida St.,floridast,2.0066,135.1705263,Roderick Johnson,OT,Florida State,-7.0,160.0,5.7,Antonio Garcia,True,4,4,True
+3020,2014,TE,Colorado St.,coloradost,1.9812,117.9340162,Crockett Gillmore,TE,Colorado State,-7.0,99.0,5.02,Marcel Jensen,False,1,2,True
+3021,2019,OT,Kansas St.,kansasst,1.9558,141.5208194,Dalton Risner,OT,Kansas State,-7.0,41.0,5.0,Yodny Cajuste,True,1,1,True
+3022,2017,DT,LSU,louisianastate,1.905,140.6136347,Davon Gaudchaux,DT,LSU,-7.0,178.0,5.0,Dalvin Tomlinson,True,2,8,False
+3023,2013,DE,Michigan St.,michiganst,1.9812,127.459456,William Gholston,DE,Michigan State,-7.0,126.0,6.85,Datone Jones,True,1,3,True
+3024,2015,OG,Florida,florida,2.032,161.0252914,Trenton Brown,OG,Florida,-7.0,244.0,6.85,Tayo Fabuluje,True,2,7,False
+3025,2019,CB,Michigan St.,michiganst,1.8796,87.08973504,Justin Layne,CB,Michigan State,-7.0,83.0,5.4,Derrick Baity,False,2,2,True
+3027,2017,OLB,Alabama,alabama,1.905,110.6765383,Tim Williams,OLB,Alabama,-7.0,78.0,1.73,Ryan Anderson,True,0,10,True
+3028,2014,RB,Baylor,baylor,1.7526,91.17206637,Lache Seastrunk,RB,Baylor,-7.0,186.0,5.14,James White,True,1,5,True
+3029,2015,CB,LSU,louisianastate,1.8542,92.07925111,Jalen Collins,CB,LSU,-7.0,42.0,5.06,Eric Rowe,True,2,4,True
+3030,2019,CB,Mississippi,mississippi,1.8034,92.07925111,Ken Webster,CB,Mississippi,-7.0,252.0,1.06,Zedrick Woods,False,3,6,True
+3031,2017,ILB,Florida,florida,1.8542,107.9549841,Jarrad Davis,ILB,Florida,-7.0,21.0,2.93,Alex Anzalone,True,1,7,True
+3033,2012,WR,Wisconsin,wisconsin,1.8796,97.52235955,Nick Toon,WR,Wisconsin,-7.0,122.0,4.06,Brad Nortman,True,1,6,True
+3034,2012,CB,Arizona St.,arizonast,1.778,91.62565874,Omar Bolden,CB,Arizona State,-7.0,101.0,5.06,Alfonzo Dennard,True,4,2,True
+3035,2013,WR,Louisiana Tech,louisianatech,1.8288,92.53284348,Quinton Patton,WR,Louisiana Tech,-7.0,128.0,3.8,Colby Cameron,False,3,2,True
+3038,2016,P,Texas A&M,texasam,1.8796,96.16158244,Drew Kaser,P,Texas A&M,-7.0,179.0,6.22,Nick O'Toole,False,3,3,True
+3039,2018,WR,Boise St.,boisest,1.8796,89.35769689,Cedrick Wilson,WR,Boise State,-7.0,208.0,5.02,Robert Foster,False,0,2,True
+3040,2012,WR,South Carolina,southcarolina,1.905,97.97595192,Alshon Jeffery,WR,South Carolina,-7.0,45.0,5.0,Marvin McNutt,True,0,6,True
+3042,2016,DE,Penn St.,pennst,2.0066,125.6450865,Carl Nassib,DE,Penn State,-7.0,65.0,5.02,Anthony Zettel,True,0,5,True
+3045,2014,WR,Florida St.,floridast,1.9558,108.8621688,Kelvin Benjamin,WR,Florida State,-7.0,28.0,3.8,"James Wilder, Jr.",False,2,7,True
+3050,2013,OT,Virginia Tech,virginiatech,1.9304,138.7992652,Vinston Painter,OT,Virginia Tech,-7.0,173.0,5.02,Justin Pugh,True,3,2,True
+3055,2012,FS,Boise St.,boisest,1.9304,102.0582833,George Iloka,S,Boise State,-3.0,167.0,5.06,Jeff Fuller,False,1,6,True
+3056,2016,OG,Missouri,missouri,1.9304,138.7992652,Connor McGovern,OG,Missouri,-7.0,144.0,3.04,Evan Boehm,True,0,3,True
+3057,2015,OT,Miami (FL),miamifl,1.9812,149.2318897,Ereck Flowers,OT,Miami (FL),-7.0,9.0,3.36,Jon Feliciano,True,1,7,True
+3058,2010,OT,Maryland,maryland,1.9812,142.4280042,Bruce Campbell,OT,Maryland,-7.0,106.0,5.14,Kyle Jolly,False,0,2,True
+3060,2019,RB,Notre Dame,notredame,1.8034,96.16158244,Dexter Williams,RB,Notre Dame,-7.0,194.0,5.02,Miles Sanders,True,2,6,True
+3061,2014,DE,South Florida,southflorida,1.9558,112.9445001,Aaron Lynch,DE,South Florida,-7.0,150.0,2.37,Tevin Mims,False,1,1,True
+3062,2011,WR,Boise St.,boisest,1.905,94.80080533,Austin Pettis,WR,Boise State,-7.0,78.0,5.0,Armon Binns,False,2,3,True
+3063,2009,OT,Illinois,illinois,1.9304,136.9848957,Xavier Fulton,OT,Illinois,-7.0,155.0,5.0,Augustus Parrish,False,1,3,True
+3065,2016,OG,Stanford,stanford,1.9304,141.5208194,Joshua Garnett,OG,Stanford,-7.0,28.0,3.57,Kyle Murphy,True,1,5,True
+3067,2018,DE,USC,southerncalifornia,1.9558,124.7379018,Rasheem Green,DE,USC,-7.0,79.0,5.4,Sam Hubbard,True,2,4,True
+3068,2009,CB,Oregon St.,oregonst,1.778,82.55381134,Brandon Hughes,CB,Oregon State,-7.0,148.0,5.02,Chris Owens,True,0,5,True
+3069,2016,OT,Georgia,georgia,1.9812,141.9744118,John Theus,OT,Georgia,-7.0,145.0,5.02,Alex Lewis,True,3,5,True
+3071,2009,P,SMU,southernmethodist,1.9304,102.0582833,Thomas Morstead,P,SMU,-7.0,164.0,5.79,Rhett Bomar,True,0,2,True
+3072,2012,QB,Arizona,arizona,1.9558,110.2229459,Nick Foles,QB,Arizona,-7.0,88.0,6.7,Coby Fleener,True,0,3,True
+3073,2018,TE,Penn St.,pennst,1.9558,112.0373154,Mike Gesicki,TE,Penn State,-7.0,42.0,5.0,Troy Fumagalli,True,3,5,True
+3074,2010,WR,Ohio,ohio,1.8288,92.53284348,Taylor Price,WR,Ohio,-7.0,90.0,5.06,Jeremy Williams,False,0,1,True
+3075,2018,S,Texas A&M,texasam,1.8034,92.98643585,Armani Watts,S,Texas A&M,-7.0,124.0,4.7,Christian Kirk,True,2,2,True
+3076,2013,DE,Utah,utah,1.9812,122.0163475,Joe Kruger,DE,Utah,-7.0,212.0,5.51,Ziggy Ansah,True,0,2,True
+3077,2013,SS,Notre Dame,notredame,1.8796,96.61517481,Zeke Motta,S,Notre Dame,-3.0,244.0,4.02,Cierre Wood,False,2,6,True
+3079,2010,TE,Penn St.,pennst,1.9304,115.212462,Andrew Quarless,TE,Penn State,-7.0,154.0,5.4,Anthony McCoy,True,1,5,True
+3080,2009,CB,Georgia,georgia,1.7526,87.99691978,Asher Allen,CB,Georgia,-7.0,86.0,5.02,Alphonso Smith,True,2,6,True
+3081,2016,ILB,Arizona,arizona,1.8288,108.4085764,Scooby Wright III,ILB,Arizona,-7.0,250.0,5.14,Raphael Kirby,False,1,1,True
+3082,2017,OG,Utah,utah,1.905,146.5103355,Isaac Asiata,OG,Utah,-7.0,164.0,5.07,Sam Tevi,True,0,8,True
+3085,2009,CB,USC,southerncalifornia,1.8034,84.82177319,Cary Harris,CB,USC,-7.0,183.0,5.14,Mike Mickens,True,0,11,True
+3086,2015,DE,Missouri,missouri,1.905,111.1301307,Shane Ray,DE,Missouri,-7.0,23.0,5.06,Zack Wagenmann,False,0,4,True
+3087,2019,OT,Northern Illinois,northernillinois,1.9812,148.324705,Max Scharping,OT,Northern Illinois,-7.0,55.0,5.59,Yosh Nijman,False,0,2,True
+3089,2019,WR,Ohio St.,ohiost,1.8288,94.34721296,Terry McLaurin,WR,Ohio State,-7.0,76.0,0.14,Parris Campbell,True,1,9,True
+3091,2013,OG,Oregon,oregon,1.9812,141.9744118,Kyle Long,OG,Oregon,-7.0,20.0,5.45,Jamaal Johnson-Webb,False,0,5,True
+3092,2010,P,Michigan,michigan,1.9304,108.8621688,Zoltan Mesko,P,Michigan,-7.0,150.0,7.18,Robert Malone,False,2,2,True
+3093,2010,OT,Miami (FL),miamifl,2.0066,137.4384881,Jason Fox,OT,Miami (FL),-7.0,128.0,5.59,Matt Kopa,False,1,4,True
+3096,2014,ILB,LSU,louisianastate,1.8542,107.5013917,Lamin Barrow,ILB,LSU,-7.0,156.0,4.25,Jeremy Hill,True,3,8,True
+3098,2019,CB,Washington,washington,1.8542,84.36818082,Jordan Miller,CB,Washington,-7.0,172.0,2.04,Byron Murphy,True,1,8,True
+3099,2016,FB,Nebraska,nebraska,1.8542,107.9549841,Andy Janovich,FB,Nebraska,-7.0,176.0,5.02,Dan Vitale,True,0,4,True
+3100,2019,WR,Fresno St.,fresnost,1.8542,91.17206637,Keesean Johnson,WR,Fresno State,-7.0,174.0,5.06,Riley Ridley,True,2,1,True
+3103,2019,OT,Wisconsin,wisconsin,1.9812,139.70645,David Edwards,OT,Wisconsin,-7.0,169.0,1.02,Beau Benzschawel,False,4,4,True
+3104,2013,DT,Notre Dame,notredame,1.9304,135.1705263,Kapron Lewis-Moore,DT,Notre Dame,-7.0,200.0,4.84,Braxston Cave,False,2,6,True
+3105,2016,DT,Texas,texas,1.905,137.4384881,Hassan Ridgeway,DT,Texas,-7.0,116.0,5.0,Willie Henry,True,0,1,True
+3107,2010,OT,Massachusetts,massachusetts,1.9304,150.5926668,Vladimir Ducasse,OT,Massachusetts,-7.0,61.0,5.7,John Jerry,True,0,1,False
+3108,2016,RB,Alabama,alabama,1.8542,95.2543977,Kenyan Drake,RB,Alabama,-7.0,73.0,5.46,Daniel Lasco,True,2,7,True
+3109,2015,TE,Pittsburgh,pittsburgh,1.9304,121.5627552,Nick Boyle,TE,Pittsburgh,-7.0,171.0,7.18,Eric Tomlinson,False,0,2,True
+3110,2009,RB,Texas,texas,1.8288,99.7903214,Chris Ogbonnaya,RB,Texas,-7.0,211.0,5.25,Anthony Kimble,False,2,3,True
+3113,2014,QB,Fresno St.,fresnost,1.8796,97.06876718,Derek Carr,QB,Fresno State,-7.0,36.0,1.51,Davante Adams,True,2,2,True
+3114,2019,WR,Colorado St.,coloradost,1.8288,92.53284348,Bisi Johnson,WR,Colorado State,-7.0,247.0,5.02,Parris Campbell,True,0,1,False
+3115,2011,DT,North Carolina,northcarolina,1.8796,140.1600423,Marvin Austin,DT,North Carolina,-7.0,52.0,5.25,Sealver Siliga,False,4,8,True
+3116,2012,OT,California,california,1.9558,144.2423737,Mitchell Schwartz,OT,California,-7.0,37.0,5.25,Tom Compton,True,1,5,True
+3117,2017,K,Arizona St.,arizonast,1.8288,91.62565874,Zane Gonzalez,K,Arizona State,-7.0,224.0,7.29,Conrad Ukropina,False,0,1,True
+3118,2009,WR,North Carolina,northcarolina,1.8288,83.00740371,Brandon Tate,WR,North Carolina,-7.0,83.0,5.02,Quinten Lawrence,True,0,5,True
+3120,2017,CB,Miami (FL),miamifl,1.778,83.00740371,Corn Elder,CB,Miami (FL),-7.0,152.0,5.02,Damontae Kazee,True,2,7,True
+3122,2012,RB,Ohio St.,ohiost,1.778,96.61517481,Dan Herron,RB,Ohio State,-7.0,191.0,5.06,Chris Polk,False,1,3,True
+3123,2013,WR,Michigan,michigan,1.778,90.26488163,Denard Robinson,WR,Michigan,-7.0,135.0,5.57,Stedman Bailey,True,0,1,True
+3125,2019,P,Utah,utah,1.8796,98.88313666,Mitch Wishnowsky,P,Utah,-7.0,110.0,4.7,Chase Hansen,False,1,5,True
+3126,2011,TE,USC,southerncalifornia,1.9558,115.212462,Jordan Cameron,TE,USC,-7.0,102.0,5.25,Luke Stocker,True,1,7,True
+3127,2013,RB,LSU,louisianastate,1.778,103.4190604,Spencer Ware,RB,LSU,-7.0,194.0,5.4,Mike James,True,4,9,True
+3128,2015,CB,Florida St.,floridast,1.8288,87.99691978,P.J. Williams,CB,Florida State,-7.0,78.0,0.46,Ronald Darby,True,1,11,True
+3129,2019,OT,Morgan St.,morganst,1.9558,142.4280042,Joshua Miles,OT,Morgan State,-7.0,248.0,5.02,Andre Dillard,True,0,1,True
+3130,2016,FS,Ohio St.,ohiost,1.8034,90.26488163,Vonn Bell,S,Ohio State,-3.0,61.0,0.46,Jalin Marshall,False,2,12,True
+3131,2017,WR,Ohio St.,ohiost,1.8034,88.90410452,Curtis Samuel,WR,Ohio State,-7.0,40.0,4.06,Cameron Johnston,False,1,7,True
+3133,2017,RB,BYU,brighamyoung,1.8288,96.16158244,Jamaal Williams,RB,BYU,-7.0,134.0,5.14,Wayne Gallman,True,1,1,True
+3134,2013,K,Florida,florida,1.778,85.27536556,Caleb Sturgis,K,Florida,-7.0,166.0,6.02,Anthony Cantele,False,2,8,True
+3135,2015,RB,Florida,florida,1.8796,104.7798375,Matt Jones,RB,Florida,-7.0,95.0,4.4,Neiron Ball,True,2,7,True
+3136,2019,WR,North Carolina St.,northcarolinast,1.8796,100.2439138,Kelvin Harmon,WR,North Carolina State,-7.0,206.0,3.8,Ryan Finley,True,2,4,True
+3137,2010,RB,LSU,louisianastate,1.8034,107.9549841,Charles Scott,RB,LSU,-7.0,200.0,0.4,Keiland Williams,False,6,6,True
+3138,2014,DT,Connecticut,connecticut,1.9558,140.1600423,Shamar Stephen,DT,Connecticut,-7.0,220.0,5.4,Stephon Tuitt,True,0,2,True
+3139,2010,OLB,Arizona St.,arizonast,1.8542,110.6765383,Dexter Davis,OLB,Arizona State,-7.0,236.0,1.7,Travis Goethel,True,1,4,True
+3140,2010,DE,Mississippi,mississippi,1.9304,127.459456,Greg Hardy,DE,Mississippi,-7.0,175.0,5.45,Erik Lorig,True,3,4,True
+3141,2009,DE,Hawaii,hawaii,1.8796,116.5732391,David Veikune,DE,Hawaii,-7.0,52.0,5.02,Tim Jamison,False,0,3,True
+3145,2014,WR,Colorado,colorado,1.8288,79.37866475,Paul Richardson,WR,Colorado,-7.0,45.0,5.59,Corey Brown,False,0,1,True
+3146,2017,OG,Oregon St.,oregonst,1.9304,137.4384881,Sean Harlow,OG,Oregon State,-7.0,136.0,5.06,Dan Feeney,True,1,2,True
+3148,2016,OLB,LSU,louisianastate,1.8542,100.6975061,Deion Jones,OLB,LSU,-7.0,52.0,5.25,Su'A Cravens,True,0,4,True
+3149,2014,OLB,Ball St.,ballst,1.905,112.0373154,Jonathan Newsome,OLB,Ball State,-7.0,166.0,5.06,Devon Kennard,True,1,2,True
+3150,2011,RB,Maryland,maryland,1.8034,95.70799007,Da'Rel Scott,RB,Maryland,-7.0,221.0,3.57,Torrey Smith,True,1,2,True
+3151,2015,DT,Rice,rice,1.8796,131.0881949,Christian Covington,DT,Rice,-7.0,216.0,5.25,Mike Bennett,True,0,1,True
+3152,2011,OT,Auburn,auburn,1.9812,143.7887813,Lee Ziemba,OT,Auburn,-7.0,244.0,5.45,Jarriel King,False,2,3,True
+3154,2018,S,Penn St.,pennst,1.8796,89.81128926,Troy Apke,S,Penn State,-7.0,109.0,0.25,Marcus Allen,True,3,5,True
+3156,2014,OT,Michigan,michigan,2.0066,140.1600423,Taylor Lewan,OT,Michigan,-7.0,11.0,1.46,Michael Schofield,True,0,3,True
+3157,2018,OLB,Ohio St.,ohiost,1.8542,103.8726527,Jerome Baker,OLB,Ohio State,-7.0,73.0,2.73,Chris Worley,False,4,7,True
+3158,2010,SS,LSU,louisianastate,1.8796,100.2439138,Chad Jones,S,LSU,-3.0,76.0,1.59,Brandon LaFell,True,6,6,True
+3159,2015,QB,Oregon,oregon,1.9304,100.6975061,Marcus Mariota,QB,Oregon,-7.0,2.0,5.7,Brett Hundley,True,2,5,True
+3161,2015,C,Florida St.,floridast,1.9558,141.9744118,Cameron Erving,C,Florida State,-7.0,19.0,1.25,Josue Matias,False,1,11,True
+3164,2009,WR,BYU,brighamyoung,1.8542,90.718474,Austin Collie,WR,BYU,-7.0,127.0,5.14,Nate Swift,False,2,1,True
+3165,2011,WR,Mount Union,mountunion,1.8288,92.98643585,Cecil Shorts,WR,Mount Union,-7.0,114.0,5.02,Jimmy Young,False,0,1,True
+3167,2013,WR,California,california,1.8796,93.44002822,Keenan Allen,WR,California,-7.0,76.0,5.06,Corey Fuller,True,1,4,True
+3168,2009,WR,Ohio St.,ohiost,1.8796,88.45051215,Brian Hartline,WR,Ohio State,-7.0,108.0,3.56,Brian Robiskie,True,1,7,True
+3169,2014,OLB,California,california,1.8796,112.4909078,Khairi Fortt,OLB,California,-7.0,126.0,5.4,Kasim Edebali,False,1,2,True
+3173,2013,DE,Illinois,illinois,1.9558,115.6660544,Michael Buchanan,DE,Illinois,-7.0,226.0,5.4,Quanterus Smith,True,1,4,True
+3174,2010,ILB,Penn St.,pennst,1.8796,107.0477993,Sean Lee,ILB,Penn State,-7.0,55.0,0.46,Josh Hull,True,1,5,True
+3175,2013,OG,Ohio,ohio,1.9304,145.1495584,Eric Herman,OG,Ohio,-7.0,225.0,5.0,Brian Winters,True,0,1,True
+3176,2011,ILB,Illinois,illinois,1.9304,113.3980925,Martez Wilson,ILB,Illinois,-7.0,72.0,6.57,Mark Herzlich,False,0,3,True
+3177,2018,DT,Florida,florida,1.9304,131.9953797,Taven Bryan,DT,Florida,-7.0,29.0,5.14,Trenton Thompson,False,1,5,True
+3178,2014,DE,Virginia,virginia,2.0066,133.8097492,Brent Urban,DE,Virginia,-7.0,134.0,8.56,Taylor Hart,True,0,2,True
+3179,2016,RB,Alabama,alabama,1.905,112.0373154,Derrick Henry,RB,Alabama,-7.0,45.0,5.79,Reggie Ragland,True,2,7,True
+3181,2015,OT,Florida,florida,1.9558,139.2528576,D.J. Humphries,OT,Florida,-7.0,24.0,0.78,Chaz Green,True,2,7,True
+3183,2010,QB,Cincinnati,cincinnati,1.9812,101.1510985,Tony Pike,QB,Cincinnati,-7.0,204.0,6.79,Sean Canfield,True,0,2,True
+3184,2018,CB,Louisville,louisville,1.8034,87.08973504,Jaire Alexander,CB,Louisville,-7.0,18.0,5.02,Mike Hughes,True,1,4,True
+3187,2014,CB,Georgia Tech,georgiatech,1.7526,87.08973504,Jemea Thomas,CB,Georgia Tech,-7.0,206.0,5.06,Nevin Lawson,True,0,2,True
+3188,2012,QB,Michigan St.,michiganst,1.905,97.06876718,Kirk Cousins,QB,Michigan State,-7.0,102.0,2.93,B.J. Cunningham,True,1,5,True
+3190,2015,RB,LSU,louisianastate,1.8288,102.5118756,Kenny Hilliard,RB,LSU,-7.0,235.0,4.46,Kwon Alexander,True,2,4,True
+3193,2009,FB,Idaho,idaho,1.8542,108.4085764,Eddie Williams,FB,Idaho,-7.0,221.0,5.59,Brannan Southerland,False,0,1,True
+3196,2009,WR,Nevada,nevada,1.9304,98.88313666,Marko Mitchell,WR,Nevada,-7.0,243.0,5.45,Kenny Britt,True,1,1,True
+3197,2014,WR,Oregon St.,oregonst,1.778,85.72895793,Brandin Cooks,WR,Oregon State,-7.0,20.0,4.0,Rashaad Reynolds,False,1,2,True
+3198,2015,CB,Ohio St.,ohiost,1.778,90.718474,Doran Grant,CB,Ohio State,-7.0,121.0,5.14,Steven Nelson,True,0,4,True
+3199,2009,DT,Boston Col.,bostoncol,1.905,149.6854821,Ron Brace,DT,Boston Col.,-7.0,40.0,2.57,B.J. Raji,True,1,2,True
+3200,2013,WR,Tennessee,tennessee,1.9304,88.90410452,Justin Hunter,WR,Tennessee,-7.0,34.0,5.51,Marquess Wilson,True,1,4,True
+3201,2016,WR,Cincinnati,cincinnati,1.8542,93.44002822,Chris Moore,WR,Cincinnati,-7.0,107.0,4.04,Mekale McKay,False,2,2,True
+3202,2018,OLB,Central Florida,centralflorida,1.8542,102.965468,Shaquem Griffin,OLB,Central Florida,-7.0,141.0,5.06,Jerome Baker,True,1,3,True
+3204,2012,WR,Georgia Tech,georgiatech,1.9304,97.52235955,Stephen Hill,WR,Georgia Tech,-7.0,43.0,5.46,Alshon Jeffery,True,0,1,True
+3206,2015,FS,Penn St.,pennst,1.8288,98.88313666,Adrian Amos,S,Penn State,-3.0,142.0,5.0,Gerod Holliman,True,2,3,True
+3209,2018,TE,Wisconsin,wisconsin,1.9558,112.0373154,Troy Fumagalli,TE,Wisconsin,-7.0,156.0,5.0,Mike Gesicki,True,1,5,True
+3210,2010,WR,Illinois,illinois,1.8542,99.33672903,Arrelious Benn,WR,Illinois,-7.0,39.0,5.06,Mike Williams,True,0,3,True
+3212,2014,DT,Louisiana Tech,louisianatech,1.8542,151.4998516,Justin Ellis,DT,Louisiana Tech,-7.0,107.0,5.14,Ryan Carrethers,True,0,2,True
+3213,2011,P,Miami (FL),miamifl,1.8542,94.34721296,Matt Bosher,P,Miami (FL),-7.0,192.0,4.02,Leonard Hankerson,True,2,7,False
+3215,2010,OT,Iowa,iowa,1.9812,146.5103355,Kyle Calloway,OT,Iowa,-7.0,216.0,1.59,Dace Richardson,False,1,6,True
+3216,2012,DE,North Carolina,northcarolina,1.9812,128.8202331,Quinton Coples,DE,North Carolina,-7.0,16.0,5.45,Malik Jackson,True,4,2,True
+3217,2012,P,Wisconsin,wisconsin,1.8796,96.61517481,Brad Nortman,P,Wisconsin,-7.0,207.0,4.06,Nick Toon,True,1,6,True
+3220,2019,RB,Texas A&M,texasam,1.7272,93.44002822,Trayveon Williams,RB,Texas A&M,-7.0,182.0,5.06,Darrell Henderson,True,2,6,True
+3222,2013,DT,Florida,florida,1.905,134.7169339,Sharrif Floyd,DT,Florida,-7.0,23.0,5.06,Kawann Short,True,2,8,True
+3224,2017,DE,Illinois,illinois,1.905,119.7483857,Dawuane Smoot,DE,Illinois,-7.0,68.0,5.0,Avery Moss,True,3,1,True
+3225,2013,CB,North Carolina St.,northcarolinast,1.8542,92.98643585,David Amerson,CB,North Carolina State,-7.0,51.0,3.04,Earl Wolff,True,1,3,True
+3229,2019,QB,Ohio St.,ohiost,1.905,104.7798375,Dwayne Haskins,QB,Ohio State,-7.0,15.0,5.46,Kyle Shurmur,False,1,9,True
+3234,2019,CB,Notre Dame,notredame,1.8034,88.45051215,Julian Love,CB,Notre Dame,-7.0,108.0,5.02,Corey Ballentine,True,2,6,True
+3235,2015,WR,Alabama,alabama,1.8542,95.70799007,Amari Cooper,WR,Alabama,-7.0,4.0,3.57,Blake Sims,False,4,7,True
+3237,2013,DE,LSU,louisianastate,1.905,118.8412009,Sam Montgomery,DE,LSU,-7.0,95.0,4.02,Lavar Edwards,True,4,9,True
+3238,2019,S,USC,southerncalifornia,1.8796,89.81128926,Marvell Tell,S,USC,-7.0,144.0,2.73,Iman Lewis-Marshall,True,1,4,False
+3239,2012,OT,Illinois,illinois,1.9304,139.2528576,Jeff Allen,OT,Illinois,-7.0,44.0,5.4,Matt Reynolds,False,1,3,True
+3240,2015,WR,Stanford,stanford,1.8288,100.2439138,Ty Montgomery,WR,Stanford,-7.0,94.0,5.14,Ezell Ruffin,False,0,6,True
+3241,2009,CB,Norfolk St.,norfolkst,1.8034,87.08973504,Don Carey,CB,Norfolk State,-7.0,177.0,5.06,DeAngelo Smith,True,0,1,True
+3242,2017,QB,North Carolina,northcarolina,1.8796,100.6975061,Mitchell Trubisky,QB,North Carolina,-7.0,2.0,2.8,Mack Hollins,True,1,6,True
+3243,2010,RB,Stanford,stanford,1.8288,104.7798375,Toby Gerhart,RB,Stanford,-7.0,51.0,5.51,Anthony Dixon,True,1,3,True
+3244,2009,DT,LSU,louisianastate,1.905,133.8097492,Ricky Jean-Francois,DT,LSU,-7.0,244.0,1.46,Tyson Jackson,True,3,6,True
+3247,2019,OT,Florida,florida,1.9558,141.5208194,Jawaan Taylor,OT,Florida,-7.0,35.0,1.14,Martez Ivey,False,3,5,True
+3251,2017,WR,South Florida,southflorida,1.8542,85.72895793,Rodney Adams,WR,South Florida,-7.0,170.0,5.4,Isaiah Ford,True,0,2,True
+3253,2012,OLB,Arkansas St.,arkansasst,1.8796,106.594207,Demario Davis,OLB,Arkansas State,-7.0,77.0,5.06,Terrell Manning,True,1,1,True
+3254,2009,CB,Oregon,oregon,1.778,93.89362059,Jairus Byrd,CB,Oregon,-7.0,42.0,1.84,Patrick Chung,True,2,4,True
+3255,2014,CB,San Jose St.,sanjosest,1.8034,88.45051215,Bene' Benwikere,CB,San Jose State,-7.0,148.0,5.02,Demetri Goodson,True,0,2,False
+3256,2015,DT,Ohio St.,ohiost,1.8796,132.9025644,Mike Bennett,DT,Ohio State,-7.0,180.0,5.25,Christian Covington,True,0,4,False
+3257,2015,WR,Nebraska,nebraska,1.8542,89.35769689,Kenny Bell,WR,Nebraska,-7.0,162.0,5.02,Titus Davis,False,0,3,True
+3259,2013,TE,Tennessee,tennessee,1.905,109.7693535,Mychal Rivera,TE,Tennessee,-7.0,184.0,5.06,Chris Gragg,True,1,4,True
+3260,2014,RB,Boston Col.,bostoncol,1.8034,104.3262451,Andre Williams,RB,Boston Col.,-7.0,113.0,4.51,Kevin Pierre-Louis,True,2,3,True
+3261,2009,OG,Oklahoma,oklahoma,1.9558,149.2318897,Duke Robinson,OG,Oklahoma,-7.0,163.0,5.02,Kraig Urbik,True,2,5,True
+3264,2016,OT,North Dakota St.,northdakotast,1.9812,137.8920805,Joe Haeg,OT,North Dakota State,-7.0,155.0,5.02,Jerald Hawkins,True,0,2,True
+3266,2017,OG,USC,southerncalifornia,2.032,160.1181066,Zach Banner,OG,USC,-7.0,137.0,9.37,David Sharpe,True,4,4,True
+3267,2016,RB,Florida,florida,1.778,93.89362059,Kelvin Taylor,RB,Florida,-7.0,211.0,4.14,Vernon Hargreaves III,True,1,7,True
+3270,2010,DT,Alabama,alabama,1.9304,160.571699,Terrence Cody,DT,Alabama,-7.0,57.0,14.14,Cam Thomas,True,4,6,True
+3272,2012,RB,Cincinnati,cincinnati,1.778,89.35769689,Isaiah Pead,RB,Cincinnati,-7.0,50.0,5.59,Ronnie Hillman,True,0,3,True
+3273,2009,ILB,USC,southerncalifornia,1.8796,112.9445001,Rey Maualuga,ILB,USC,-7.0,38.0,2.02,Brian Cushing,True,0,11,True
+3274,2015,FB,Rutgers,rutgers,1.8034,109.7693535,Michael Burton,FB,Rutgers,-7.0,168.0,5.84,Joey Iosefa,True,0,2,True
+3275,2016,OLB,Washington,washington,1.9304,104.3262451,Travis Feeney,OLB,Washington,-7.0,220.0,1.46,Cory Littleton,False,1,1,True
+3278,2009,DE,Texas,texas,1.905,119.2947933,Brian Orakpo,DE,Texas,-7.0,13.0,5.45,Paul Kruger,True,2,3,True
+3280,2017,ILB,Ohio St.,ohiost,1.8796,108.8621688,Raekwon McMillan,ILB,Ohio State,-7.0,54.0,5.0,Brooks Ellis,False,1,7,True
+3281,2016,RB,Arkansas,arkansas,1.778,98.42954429,Alex Collins,RB,Arkansas,-7.0,171.0,0.59,Jonathan Williams,True,1,5,True
+3282,2019,TE,Mississippi,mississippi,1.9304,115.212462,Dawson Knox,TE,Mississippi,-7.0,96.0,5.02,Foster Moreau,True,3,6,True
+3283,2009,P,Cincinnati,cincinnati,1.8542,99.7903214,Kevin Huber,P,Cincinnati,-7.0,142.0,9.02,Nathan Brown,False,0,6,True
+3284,2018,DE,North Carolina St.,northcarolinast,1.9304,122.0163475,Bradley Chubb,DE,North Carolina State,-7.0,5.0,3.71,Kentavius Street,True,0,7,True
+3287,2011,CB,Texas,texas,1.8288,92.53284348,Aaron Williams,CB,Texas,-7.0,34.0,3.56,Chykie Brown,True,1,4,True
+3288,2009,SS,Mississippi,mississippi,1.778,97.06876718,Jamarca Sanford,S,Mississippi,-3.0,231.0,5.25,Donald Brown,True,1,4,True
+3289,2010,DT,North Carolina,northcarolina,1.9304,149.6854821,Cam Thomas,DT,North Carolina,-7.0,146.0,5.06,Linval Joseph,True,2,2,True
+3291,2018,C,Arkansas,arkansas,1.9558,141.5208194,Frank Ragnow,C,Arkansas,-7.0,20.0,5.46,Will Clapp,True,2,1,True
+3293,2019,TE,Washington,washington,1.9558,115.6660544,Drew Sample,TE,Washington,-7.0,52.0,5.0,Dax Raymond,False,1,8,True
+3296,2013,DE,Florida International,floridainternational,1.905,117.9340162,Tourek Williams,DE,Florida International,-7.0,179.0,5.06,Sam Montgomery,True,0,2,True
+3297,2016,CB,Ohio St.,ohiost,1.8542,90.26488163,Eli Apple,CB,Ohio State,-7.0,10.0,2.79,Vonn Bell,True,2,12,True
+3298,2018,QB,Wyoming,wyoming,1.9558,107.5013917,Josh Allen,QB,Wyoming,-7.0,7.0,5.06,Mason Rudolph,True,0,1,True
+3299,2012,DE,Boise St.,boisest,1.9304,124.7379018,Tyrone Crawford,DE,Boise State,-7.0,81.0,5.25,Jared Crick,True,1,6,True
+3300,2012,OT,Nebraska,nebraska,1.9812,145.1495584,Marcel Jones,OT,Nebraska,-7.0,234.0,5.0,Zebrie Sanders,True,0,4,True
+3301,2010,WR,Minnesota,minnesota,1.905,98.42954429,Eric Decker,WR,Minnesota,-7.0,87.0,5.0,David Gettis,True,2,2,True
+3304,2013,FS,Nebraska,nebraska,1.8288,100.2439138,Daimion Stafford,S,Nebraska,-3.0,248.0,2.57,Rex Burkhead,True,1,2,True
+3306,2010,DT,Alabama,alabama,1.9304,142.4280042,Brandon Deaderick,DT,Alabama,-7.0,247.0,4.51,Mike Johnson,True,4,6,True
+3307,2012,CB,Oklahoma,oklahoma,1.8034,93.44002822,Jamell Fleming,CB,Oklahoma,-7.0,80.0,5.25,DeQuan Menzie,True,0,7,True
+3309,2015,WR,USC,southerncalifornia,1.8288,89.81128926,Nelson Agholor,WR,USC,-7.0,20.0,4.14,Josh Shaw,True,1,6,True
+3310,2009,OG,Nebraska,nebraska,1.9558,143.3351889,Matt Slauson,OG,Nebraska,-7.0,193.0,4.37,Lydon Murtha,True,3,3,True
+3311,2009,TE,North Carolina,northcarolina,1.9304,119.7483857,Richard Quinn,TE,North Carolina,-7.0,64.0,5.46,Brandon Pettigrew,True,0,5,True
+3312,2011,ILB,Oregon,oregon,1.8542,104.7798375,Casey Matthews,ILB,Oregon,-7.0,116.0,5.78,Colin McCarthy,True,2,1,True
+3313,2015,CB,Louisville,louisville,1.778,81.6466266,Charles Gaines,CB,Louisville,-7.0,189.0,5.0,Troy Hill,False,2,9,True
+3314,2011,DE,Oklahoma,oklahoma,1.8796,118.8412009,Jeremy Beal,DE,Oklahoma,-7.0,247.0,5.51,Jabaal Sheard,True,1,3,True
+3315,2015,DT,Stanford,stanford,1.8542,139.70645,David Parry,DT,Stanford,-7.0,151.0,5.25,Grady Jarrett,True,0,6,True
+3319,2017,RB,Texas-El Paso,texaselpaso,1.7526,94.34721296,Aaron Jones,RB,Texas-El Paso,-7.0,182.0,5.14,Matthew Dayes,True,1,1,True
+3320,2014,FS,Florida St.,floridast,1.8034,89.81128926,Terrence Brooks,S,Florida State,-3.0,79.0,5.0,"Odell Beckham, Jr.",True,2,7,True
+3321,2009,C,Arkansas,arkansas,1.9304,136.5313034,Jonathan Luigs,C,Arkansas,-7.0,106.0,4.11,Jose Valdez,False,1,1,True
+3323,2010,RB,Georgia Tech,georgiatech,1.8034,103.8726527,Jonathan Dwyer,RB,Georgia Tech,-7.0,188.0,5.25,Keiland Williams,False,0,4,True
+3324,2010,WR,Central Michigan,centralmichigan,1.778,84.36818082,Antonio Brown,WR,Central Michigan,-7.0,195.0,5.06,Kyle Williams,True,0,2,True
+3325,2016,CB,Baylor,baylor,1.8288,91.17206637,Xavien Howard,CB,Baylor,-7.0,38.0,5.06,Leshaun Sims,True,1,5,True
+3328,2014,SS,Northern Illinois,northernillinois,1.8034,87.54332741,Jimmie Ward,S,Northern Illinois,-3.0,30.0,5.02,Demetri Goodson,True,1,1,True
+3330,2013,QB,Syracuse,syracuse,1.8796,102.965468,Ryan Nassib,QB,Syracuse,-7.0,110.0,5.0,Matt Barkley,True,1,3,True
+3331,2017,C,Baylor,baylor,1.9558,139.2528576,Kyle Fuller,C,Baylor,-7.0,243.0,5.0,Jon Toth,False,2,1,True
+3333,2016,DE,Oregon,oregon,2.0066,131.9953797,Deforest Buckner,DE,Oregon,-7.0,7.0,5.7,Shawn Oakman,False,4,1,True
+3334,2010,OG,Alabama,alabama,1.9558,141.5208194,Mike Johnson,OG,Alabama,-7.0,98.0,4.51,Brandon Deaderick,True,4,6,True
+3335,2015,C,Florida,florida,1.9304,140.1600423,Max Garcia,C,Florida,-7.0,133.0,1.51,D.J. Humphries,True,2,7,True
+3337,2013,DT,Purdue,purdue,1.905,135.6241186,Kawann Short,DT,Purdue,-7.0,44.0,5.06,Sharrif Floyd,True,1,1,True
+3338,2014,DE,Louisiana Tech,louisianatech,1.8542,118.3876086,I.K. Enemkpali,DE,Louisiana Tech,-7.0,210.0,5.45,Michael Sam,True,0,2,False
+3339,2011,OLB,Texas,texas,1.8796,118.8412009,Sam Acho,OLB,Texas,-7.0,103.0,5.02,Brooks Reed,True,1,4,True
+3340,2018,WR,Middle Tennessee St.,middletennesseest,1.778,83.00740371,Richie James,WR,Middle Tennessee State,-7.0,240.0,5.06,Keke Coutee,True,0,1,True
+3342,2012,CB,Central Florida,centralflorida,1.778,90.26488163,Josh Robinson,CB,Central Florida,-7.0,66.0,5.14,Omar Bolden,True,0,1,True
+3343,2012,DT,Cincinnati,cincinnati,1.8796,140.1600423,John Hughes,DT,Cincinnati,-7.0,87.0,5.02,Jerel Worthy,True,0,3,True
+3344,2010,CB,Oklahoma,oklahoma,1.8034,87.99691978,Dominique Franks,CB,Oklahoma,-7.0,135.0,2.8,Brian Jackson,False,2,7,True
+3345,2014,FS,Alabama,alabama,1.8542,94.34721296,Ha Ha Clinton-Dix,S,Alabama,-3.0,21.0,1.46,Cody Mandell,False,4,8,True
+3346,2011,OT,Indiana,indiana,1.9812,146.5103355,James Brewer,OT,Indiana,-7.0,117.0,5.06,Adam Grant,False,1,2,True
+3347,2018,OLB,Texas,texas,1.905,107.0477993,Malik Jefferson,OLB,Texas,-7.0,78.0,5.0,Fred Warner,True,2,4,True
+3350,2012,CB,Vanderbilt,vanderbilt,1.8034,87.08973504,Casey Hayward,CB,Vanderbilt,-7.0,62.0,5.14,Coty Sensabaugh,True,1,1,True
+3351,2015,TE,Oklahoma,oklahoma,1.9812,114.3052772,Blake Bell,TE,Oklahoma,-7.0,117.0,5.02,Dorial Green-Beckham,True,2,6,True
+3352,2010,OG,TCU,texaschristian,1.9304,144.695966,Marshall Newhouse,OG,TCU,-7.0,169.0,5.45,Chris Scott,True,1,3,True
+3353,2016,C,USC,southerncalifornia,1.9558,135.1705263,Max Tuerk,C,USC,-7.0,66.0,5.46,Nick Martin,True,3,4,True
+3354,2012,WR,Oklahoma,oklahoma,1.778,87.08973504,Ryan Broyles,WR,Oklahoma,-7.0,54.0,5.25,Kendall Wright,True,0,7,True
+3355,2014,WR,USC,southerncalifornia,1.8288,87.08973504,Marqise Lee,WR,USC,-7.0,39.0,5.25,T.J. Jones,True,4,3,True
+3356,2010,WR,Florida,florida,1.905,100.6975061,Riley Cooper,WR,Florida,-7.0,159.0,4.11,Tim Tebow,True,1,9,True
+3358,2011,DT,Alabama,alabama,1.905,144.695966,Marcell Dareus,DT,Alabama,-7.0,3.0,4.51,James Carpenter,True,0,5,True
+3359,2018,CB,Pittsburgh,pittsburgh,1.7526,81.6466266,Avonte Maddox,CB,Pittsburgh,-7.0,125.0,5.59,Denzel Ward,True,4,3,True
+3361,2012,ILB,North Carolina St.,northcarolinast,1.9304,111.583723,Audie Cole,ILB,North Carolina State,-7.0,210.0,4.07,Terrell Manning,True,0,5,True
+3362,2009,DE,Texas Tech,texastech,1.8796,118.3876086,Brandon Williams,DE,Texas Tech,-7.0,120.0,5.0,Will Davis,True,1,4,True
+3363,2015,SS,Samford,samford,1.8542,100.2439138,Jaquiski Tartt,S,Samford,-3.0,46.0,5.02,Todd Gurley,True,0,1,True
+3365,2009,WR,Georgia,georgia,1.8542,95.2543977,Mohamed Massaquoi,WR,Georgia,-7.0,50.0,3.57,Knowshon Moreno,True,2,6,True
+3366,2017,OG,Western Kentucky,westernkentucky,1.9304,140.1600423,Forrest Lamp,OG,Western Kentucky,-7.0,38.0,5.06,Corey Levin,True,0,2,True
+3367,2014,CB,Rice,rice,1.8288,87.54332741,Phillip Gaines,CB,Rice,-7.0,87.0,5.06,Ross Cockrell,True,1,1,True
+3369,2018,S,Pittsburgh,pittsburgh,1.8034,88.45051215,Jordan Whitehead,S,Pittsburgh,-7.0,117.0,5.0,Damon Webb,False,4,3,True
+3371,2014,DT,Florida,florida,1.8796,130.6346026,Dominique Easley,DT,Florida,-7.0,29.0,5.06,Kerry Hyder,False,4,4,True
+3372,2009,WR,Rutgers,rutgers,1.905,98.88313666,Kenny Britt,WR,Rutgers,-7.0,30.0,5.45,Marko Mitchell,True,0,3,True
+3374,2018,WR,Georgia,georgia,1.905,97.52235955,Javon Wims,WR,Georgia,-7.0,224.0,5.14,Courtland Sutton,True,4,6,True
+3376,2018,DT,Alabama,alabama,1.9304,145.6031508,Joshua Frazier,DT,Alabama,-7.0,246.0,3.37,Daron Payne,True,4,10,True
+3377,2013,OLB,Kansas St.,kansasst,1.8288,109.3157612,Arthur Brown,OLB,Kansas State,-7.0,56.0,5.45,Khaseem Greene,True,2,3,True
+3379,2015,OG,Alabama,alabama,1.9558,140.6136347,Arie Kouandjio,OG,Alabama,-7.0,112.0,1.84,Austin Shepherd,True,4,7,True
+3380,2015,ILB,Clemson,clemson,1.905,110.2229459,Stephone Anthony,ILB,Clemson,-7.0,31.0,1.14,Vic Beasley,True,3,4,True
+3381,2009,CB,Nicholls St.,nichollsst,1.778,81.19303423,Lardarius Webb,CB,Nicholls State,-7.0,88.0,5.06,Chris Owens,True,0,1,True
+3382,2016,SS,Florida,florida,1.8288,95.70799007,Keanu Neal,S,Florida,-3.0,17.0,1.46,Demarcus Robinson,True,1,7,True
+3383,2014,RB,Oregon,oregon,1.7526,78.92507238,De'Anthony Thomas,RB,Oregon,-7.0,124.0,6.46,Dri Archer,True,2,4,True
+3384,2013,DE,Texas A&M,texasam,1.9304,113.3980925,Damontre Moore,DE,Texas A&M,-7.0,81.0,5.02,Jonathan Stewart,False,2,5,True
+3385,2014,OLB,Florida,florida,1.905,107.5013917,Ronald Powell,OLB,Florida,-7.0,169.0,5.14,Christian Jones,False,4,4,True
+3386,2015,SS,Stanford,stanford,1.8034,95.70799007,Jordan Richards,S,Stanford,-3.0,64.0,2.03,Ty Montgomery,True,0,6,True
+3387,2011,WR,Boise St.,boisest,1.8034,78.92507238,Titus Young,WR,Boise State,-7.0,44.0,6.02,Dane Sanzenbacher,False,2,3,True
+3388,2012,K,Georgia,georgia,1.7526,84.82177319,Blair Walsh,K,Georgia,-7.0,175.0,4.4,Brandon Boykin,True,1,7,True
+3390,2010,DT,Tennessee,tennessee,1.8796,148.324705,Dan Williams,DT,Tennessee,-7.0,26.0,6.02,Aleric Mullins,False,1,4,True
+3392,2014,QB,Georgia,georgia,1.8288,93.89362059,Aaron Murray,QB,Georgia,-7.0,163.0,5.0,Johnny Manziel,True,0,2,True
+3393,2010,CB,Alabama,alabama,1.7526,89.35769689,Javier Arenas,CB,Alabama,-7.0,50.0,0.46,Kareem Jackson,True,4,6,True
+3395,2010,RB,USC,southerncalifornia,1.8034,89.81128926,Joe McKnight,RB,USC,-7.0,112.0,2.8,Damian Williams,True,4,7,True
+3396,2012,DT,Alabama,alabama,1.8542,143.3351889,Josh Chapman,DT,Alabama,-7.0,136.0,5.46,DeAngelo Tyson,True,2,7,True
+3397,2018,CB,Iowa,iowa,1.8542,87.08973504,Josh Jackson,CB,Iowa,-7.0,45.0,5.02,Rashaan Gaulden,True,2,3,True
+3398,2014,WR,Clemson,clemson,1.8542,95.70799007,Sammy Watkins,WR,Clemson,-7.0,4.0,2.92,Tajh Boyd,True,0,5,True
+3400,2016,TE,Ohio St.,ohiost,1.9812,116.5732391,Nick Vannett,TE,Ohio State,-7.0,94.0,1.7,Cardale Jones,True,2,12,True
+3401,2018,ILB,Alabama,alabama,1.8288,103.4190604,Shaun dion Hamilton,ILB,Alabama,-7.0,197.0,4.45,Bo Scarbrough,True,4,10,True
+3402,2018,OG,Appalachian St.,appalachianst,1.9558,141.0672271,Colby Gossett,OG,Appalachian State,-7.0,213.0,5.02,Salesi Uhatafe,False,0,1,True
+3403,2014,OLB,UCLA,ucla,1.9558,115.6660544,Anthony Barr,OLB,UCLA,-7.0,9.0,4.59,Cassius Marsh,True,0,5,True
+3405,2009,CB,Oregon St.,oregonst,1.8542,94.34721296,Keenan Lewis,CB,Oregon State,-7.0,96.0,5.7,Malcolm Jenkins,True,0,5,True
+3409,2012,DT,LSU,louisianastate,1.9558,146.0567431,Michael Brockers,DT,LSU,-7.0,14.0,6.29,Dominique Hamilton,False,3,5,True
+3410,2013,OLB,Florida St.,floridast,1.8542,107.0477993,Nick Moody,OLB,Florida State,-7.0,180.0,5.06,Zaviar Gooden,True,3,10,True
+3411,2015,SS,Central Florida,centralflorida,1.8796,98.88313666,Clayton Geathers,S,Central Florida,-3.0,109.0,0.57,Breshad Perriman,True,2,2,True
+3412,2015,WR,Michigan St.,michiganst,1.8288,97.52235955,Keith Mumphery,WR,Michigan State,-7.0,175.0,1.78,Jeremy Langford,True,2,4,True
+3413,2014,OLB,Montana,montana,1.905,106.1406146,Jordan Tripp,OLB,Montana,-7.0,171.0,5.14,Ronald Powell,True,0,1,True
+3415,2013,QB,Southern Utah,southernutah,1.9304,103.8726527,Brad Sorensen,QB,Southern Utah,-7.0,221.0,5.25,Landry Jones,True,0,1,True
+3416,2017,RB,Louisiana,louisiana,1.778,97.06876718,Elijah McGuire,RB,Louisiana,-7.0,188.0,5.0,Alvin Kamara,True,0,1,True
+3417,2016,OT,Nebraska,nebraska,1.9812,141.5208194,Alex Lewis,OT,Nebraska,-7.0,130.0,5.0,Ronnie Stanley,True,0,4,True
+3418,2010,WR,Mississippi,mississippi,1.7526,78.01788764,Dexter McCluster,WR,Mississippi,-7.0,36.0,5.02,Marshay Green,False,3,4,True
+3420,2018,RB,Arizona St.,arizonast,1.8542,103.4190604,Kalen Ballage,RB,Arizona State,-7.0,131.0,5.0,Bo Scarbrough,True,2,3,True
+3421,2017,CB,San Diego St.,sandiegost,1.778,83.46099608,Damontae Kazee,CB,San Diego State,-7.0,149.0,5.02,Corn Elder,True,1,3,True
+3422,2015,DT,Southern Miss,southernmiss,1.8796,139.2528576,Rakeem Nunez-Roches,DT,Southern Miss,-7.0,217.0,5.45,Marcus Hardison,True,0,1,True
+3426,2015,OLB,Tenn-Chattanooga,tennchattanooga,1.8796,111.583723,Davis Tull,OLB,Tenn-Chattanooga,-7.0,148.0,5.06,Yannick Cudjoe-Virgil,False,1,1,True
+3428,2009,WR,Mississippi,mississippi,1.8288,90.26488163,Mike Wallace,WR,Mississippi,-7.0,84.0,5.0,Demetrius Byrd,True,1,4,True
+3429,2012,OLB,West Virginia,westvirginia,1.905,111.1301307,Bruce Irvin,OLB,West Virginia,-7.0,15.0,5.04,Najee Goode,True,0,2,True
+3431,2016,DE,Oklahoma,oklahoma,1.905,122.9235323,Charles Tapper,DE,Oklahoma,-7.0,101.0,5.06,Shaq Lawson,True,3,4,True
+3432,2017,CB,North Carolina St.,northcarolinast,1.8288,91.62565874,Jack Tocho,CB,North Carolina State,-7.0,245.0,5.0,Chidobe Awuzie,True,0,3,True
+3433,2009,WR,Rutgers,rutgers,1.8542,83.46099608,Tiquan Underwood,WR,Rutgers,-7.0,253.0,5.45,Quinten Lawrence,True,0,3,True
+3435,2011,RB,Alabama,alabama,1.7526,97.52235955,Mark Ingram,RB,Alabama,-7.0,28.0,5.06,Vai Taua,False,0,5,True
+3437,2014,RB,Towson,towson,1.7526,102.0582833,Terrance West,RB,Towson,-7.0,94.0,5.45,Antonio Andrews,False,0,1,True
+3438,2010,DE,Indiana,indiana,1.8542,117.9340162,Jammie Kirlew,DE,Indiana,-7.0,232.0,2.8,Greg Middleton,False,2,2,True
+3440,2015,DT,Auburn,auburn,1.905,136.077711,Gabe Wright,DT,Auburn,-7.0,113.0,4.25,Reese Dismukes,False,3,4,True
+3441,2012,OT,Mississippi,mississippi,1.9812,143.3351889,Bobby Massie,OT,Mississippi,-7.0,112.0,5.02,Andrew Datko,True,1,1,True
+3444,2013,OLB,Texas A&M,texasam,1.8542,103.8726527,Sean Porter,OLB,Texas A&M,-7.0,118.0,5.4,Zaviar Gooden,True,2,5,True
+3445,2015,P,Clemson,clemson,1.9558,103.8726527,Bradley Pinion,P,Clemson,-7.0,165.0,5.51,Trevor Pardula,False,3,4,True
+3446,2016,DE,Maryland,maryland,1.8796,114.3052772,Yannick Ngakoue,DE,Maryland,-7.0,69.0,5.02,Noah Spence,True,1,3,True
+3447,2013,CB,Mississippi St.,mississippist,1.8796,83.91458845,Johnthan Banks,CB,Mississippi State,-7.0,43.0,2.57,Darius Slay,True,0,3,True
+3449,2014,OG,Furman,furman,1.9304,141.9744118,Dakota Dozier,OG,Furman,-7.0,137.0,5.0,Kadeem Edwards,True,0,1,True
+3451,2016,DT,Mississippi,mississippi,1.905,133.3561568,Robert Nkemdiche,DT,Mississippi,-7.0,29.0,5.25,Devaunte Sigler,False,1,5,True
+3452,2014,TE,Iowa,iowa,1.9558,120.2019781,C.J. Fiedorowicz,TE,Iowa,-7.0,65.0,5.0,Jace Amaro,True,2,3,True
+3453,2016,OT,South Carolina,southcarolina,1.9558,146.9639279,Brandon Shell,OT,South Carolina,-7.0,158.0,5.0,Dominique Robertson,False,1,3,True
+3456,2011,OLB,Texas A&M,texasam,1.905,111.583723,Von Miller,OLB,Texas A&M,-7.0,2.0,5.0,K.J. Wright,True,1,1,True
+3457,2010,DE,North Carolina,northcarolina,1.8796,129.7274178,E.J. Wilson,DE,North Carolina,-7.0,127.0,5.7,C.J. Wilson,True,2,2,True
+3458,2013,TE,Colorado,colorado,1.9812,122.0163475,Nick Kasa,TE,Colorado,-7.0,172.0,6.22,Dion Sims,True,0,2,True
+3460,2015,OLB,Louisville,louisville,1.9304,117.4804238,Lorenzo Mauldin,OLB,Louisville,-7.0,82.0,5.46,Xzavier Dickson,True,2,9,True
+3464,2010,CB,Maryland,maryland,1.8034,92.53284348,Nolan Carroll,CB,Maryland,-7.0,145.0,5.45,Jamar Wall,True,0,2,True
+3466,2009,ILB,South Carolina,southcarolina,1.8796,114.3052772,Jasper Brinkley,ILB,South Carolina,-7.0,150.0,5.14,Rey Maualuga,True,1,5,True
+3467,2009,RB,Virginia,virginia,1.7526,97.97595192,Cedric Peerman,RB,Virginia,-7.0,185.0,5.59,Gartrell Johnson,True,1,4,True
+3469,2011,ILB,Georgia,georgia,1.8542,109.7693535,Akeem Dent,ILB,Georgia,-7.0,91.0,4.84,Shaun Chapas,True,3,5,True
+3470,2013,FS,Fresno St.,fresnost,1.8288,94.34721296,Phillip Thomas,S,Fresno State,-3.0,119.0,5.02,Keelan Johnson,False,1,1,True
+3471,2014,C,Boise St.,boisest,1.905,138.7992652,Matt Paradis,C,Boise State,-7.0,207.0,1.59,Charles Leno,True,0,3,True
+3473,2009,OG,LSU,louisianastate,2.0066,165.1076227,Herman Johnson,OG,LSU,-7.0,167.0,1006.0,,,3,6,True
+3474,2015,WR,Georgia Tech,georgiatech,1.9812,107.9549841,Darren Waller,WR,Georgia Tech,-7.0,204.0,5.46,Dorial Green-Beckham,True,0,2,True
+3476,2009,TE,North Carolina St.,northcarolinast,1.9558,118.8412009,Anthony Hill,TE,North Carolina State,-7.0,122.0,5.02,Brandon Pettigrew,True,0,2,True

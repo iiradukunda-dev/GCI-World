@@ -1,0 +1,17 @@
+Id,Year,Position,School,chosen_name,chosen_pos,chosen_penalty,alt_name,alt_pos,alt_school,alt_penalty,alt_draft_ovr,alt_in_dp,margin,rank
+3070,2017,WR,USC,Darreus Rogers,WR,-7.0,JuJu Smith-Schuster,WR,USC,-6.9841,62.0,R2P62,0.0159,1
+3048,2009,WR,Penn St.,Jordan Norwood,WR,-7.0,Deon Butler,WR,Penn State,-6.4103,91.0,R3P91,0.5897,1
+3303,2019,S,Mississippi,Zedrick Woods,S,-7.0,Ken Webster,CB,Mississippi,-5.9365,252.0,R7P252,1.0635,1
+3329,2014,DT,LSU,Anthony Johnson,DT,-7.0,Ego Ferguson,DT,LSU,-5.7753,51.0,R2P51,1.2247,1
+2845,2010,DT,LSU,Charles Alexander,DT,-7.0,Al Woods,DT,LSU,-5.7141,123.0,R4P123,1.2859,1
+3155,2016,OLB,Washington,Cory Littleton,OLB,-7.0,Travis Feeney,OLB,Washington,-5.5372,220.0,R6P220,1.4628,1
+3147,2018,QB,Texas Tech,Nic Shimonek,QB,-7.0,Dylan Cantrell,WR,Texas Tech,-5.4285,191.0,R6P191,1.5715,1
+3047,2010,OG,Iowa,Dace Richardson,OG,-7.0,Bryan Bulaga,OT,Iowa,-5.4285,23.0,R1P23,1.5715,1
+3207,2016,RB,USC,Tre Madden,RB,-7.0,Cody Kessler,QB,USC,-5.4103,93.0,R3P93,1.5897,1
+3189,2016,ILB,Oklahoma,Dominique Alexander,ILB,-7.0,Devante Bond,OLB,Oklahoma,-5.4103,183.0,R6P183,1.5897,1
+2990,2011,QB,Pittsburgh,Pat Devlin,QB,-7.0,Jon Baldwin,WR,Pittsburgh,-5.4103,26.0,not_in_dp,1.5897,1
+2928,2009,QB,Texas Tech,Graham Harrell,QB,-7.0,Michael Crabtree,WR,Texas Tech,-4.5372,10.0,R1P10,2.4628,1
+3232,2012,CB,Texas A&M,Coryell Judie,CB,-7.0,Terrence Frederick,CB,Texas A&M,-4.435,246.0,R7P246,2.565,1
+3026,2018,ILB,Ohio St.,Chris Worley,ILB,-7.0,Jerome Baker,OLB,Ohio State,-4.2673,73.0,R3P73,2.7327,1
+3236,2013,RB,Notre Dame,Cierre Wood,RB,-7.0,Theo Riddick,RB,Notre Dame,-4.2671,199.0,R6P199,2.7329,1
+2872,2016,OLB,Oklahoma,Eric Striker,OLB,-7.0,Devante Bond,OLB,Oklahoma,-4.1968,183.0,R6P183,2.8032,2

@@ -1,0 +1,145 @@
+Id,Year,Position,School,best_name,best_draft_ovr,best_pos,best_pen,best_h_diff,best_w_diff,alt_name,alt_draft_ovr,alt_pos,alt_pen,margin
+2975,2009,DT,Georgia Tech,Darryl Richard,234.0,DT,-7.0,0.0,0.0,Vance Walker,210.0,DT,-6.9841,0.0159
+2785,2018,CB,Alabama,Anthony Averett,118.0,CB,-7.0,0.0,0.0,Levi Wallace,,CB,-6.9365,0.0635
+3000,2017,SS,Colorado,Tedric Thompson,111.0,S,-3.0,0.0,0.0,Chidobe Awuzie,60.0,CB,-2.9365,0.0635
+3014,2015,WR,Maryland,Stefon Diggs,146.0,WR,-7.0,0.0,0.0,Deon Long,,WR,-6.8571,0.1429
+3089,2019,WR,Ohio St.,Terry McLaurin,76.0,WR,-7.0,0.0,0.0,Parris Campbell,59.0,WR,-6.8571,0.1429
+3154,2018,S,Penn St.,Troy Apke,109.0,S,-7.0,0.0,0.0,Marcus Allen,148.0,S,-6.746,0.254
+3137,2010,RB,LSU,Charles Scott,200.0,RB,-7.0,0.0,0.0,Keiland Williams,,RB,-6.6031,0.3969
+2897,2016,DT,Alabama,Jarran Reed,49.0,DT,-7.0,0.0,0.0,A'Shawn Robinson,46.0,DT,-6.5532,0.4468
+3128,2015,CB,Florida St.,P.J. Williams,78.0,CB,-7.0,0.0,0.0,Ronald Darby,50.0,CB,-6.5373,0.4627
+3174,2010,ILB,Penn St.,Sean Lee,55.0,ILB,-7.0,0.0,0.0,Josh Hull,254.0,ILB,-6.5373,0.4627
+3130,2016,FS,Ohio St.,Vonn Bell,61.0,S,-3.0,0.0,0.0,Jalin Marshall,,WR,-2.5373,0.4627
+3393,2010,CB,Alabama,Javier Arenas,50.0,CB,-7.0,0.0,0.0,Kareem Jackson,20.0,CB,-6.5373,0.4627
+2808,2012,CB,LSU,Morris Claiborne,6.0,CB,-7.0,0.0,0.0,Ron Brooks,124.0,CB,-6.4897,0.5103
+2839,2014,OG,Notre Dame,Chris Watt,89.0,OG,-7.0,0.0,0.0,Zack Martin,16.0,OG,-6.4897,0.5103
+3411,2015,SS,Central Florida,Clayton Geathers,109.0,S,-3.0,0.0,0.0,Breshad Perriman,26.0,WR,-2.4285,0.5715
+3281,2016,RB,Arkansas,Alex Collins,171.0,RB,-7.0,0.0,0.0,Jonathan Williams,156.0,RB,-6.4103,0.5897
+2957,2011,RB,North Carolina,Johnny White,133.0,RB,-7.0,0.0,0.0,Shaun Draughn,,RB,-6.2992,0.7008
+2852,2010,OLB,Texas,Roddrick Muckelroy,131.0,OLB,-7.0,0.0,0.0,Sergio Kindle,43.0,OLB,-6.2992,0.7008
+3181,2015,OT,Florida,D.J. Humphries,24.0,OT,-7.0,0.0,0.0,Chaz Green,91.0,OT,-6.2221,0.7779
+2854,2015,OT,Florida,Chaz Green,91.0,OT,-7.0,0.0,0.0,D.J. Humphries,24.0,OT,-6.2221,0.7779
+2926,2019,OT,Ohio St.,Michael Jordan,136.0,OT,-7.0,0.0,0.0,Isaiah Prince,202.0,OT,-6.2221,0.7779
+3103,2019,OT,Wisconsin,David Edwards,169.0,OT,-7.0,0.0,0.0,Beau Benzschawel,,OL,-5.9841,1.0159
+3030,2019,CB,Mississippi,Ken Webster,252.0,CB,-7.0,0.0,0.0,Zedrick Woods,,S,-5.9365,1.0635
+3247,2019,OT,Florida,Jawaan Taylor,35.0,OT,-7.0,0.0,0.0,Martez Ivey,,OL,-5.8571,1.1429
+3380,2015,ILB,Clemson,Stephone Anthony,31.0,ILB,-7.0,0.0,0.0,Vic Beasley,8.0,OLB,-5.8571,1.1429
+2916,2017,FS,Washington,Budda Baker,36.0,S,-3.0,0.0,0.0,John Ross,9.0,WR,-1.7753,1.2247
+2987,2016,OT,Mississippi,Laremy Tunsil,13.0,OT,-7.0,0.0,0.0,Fahn Cooper,174.0,OT,-5.7753,1.2247
+2833,2012,OLB,Oklahoma,Ronnell Lewis,125.0,OLB,-7.0,0.0,0.0,Travis Lewis,223.0,OLB,-5.7753,1.2247
+3161,2015,C,Florida St.,Cameron Erving,19.0,C,-7.0,0.0,0.0,Josue Matias,,OG,-5.746,1.254
+3009,2014,SS,San Diego St.,Nat Berhe,152.0,S,-3.0,0.0,0.0,Adam Muema,,RB,-1.7141,1.2859
+3005,2012,OG,Wisconsin,Kevin Zeitler,27.0,OG,-7.0,0.0,0.0,Peter Konz,55.0,C,-5.5532,1.4468
+2796,2011,WR,Alabama,Julio Jones,6.0,WR,-7.0,0.0,0.0,Greg McElroy,208.0,QB,-5.5532,1.4468
+2803,2009,DE,LSU,Tyson Jackson,3.0,DE,-7.0,0.0,0.0,Ricky Jean-Francois,244.0,DT,-5.5373,1.4627
+3244,2009,DT,LSU,Ricky Jean-Francois,244.0,DT,-7.0,0.0,0.0,Tyson Jackson,3.0,DE,-5.5373,1.4627
+3345,2014,FS,Alabama,Ha Ha Clinton-Dix,21.0,S,-3.0,0.0,0.0,Cody Mandell,,P,-1.5372,1.4628
+3275,2016,OLB,Washington,Travis Feeney,220.0,OLB,-7.0,0.0,0.0,Cory Littleton,,OLB,-5.5372,1.4628
+3156,2014,OT,Michigan,Taylor Lewan,11.0,OT,-7.0,0.0,0.0,Michael Schofield,95.0,OT,-5.5372,1.4628
+3382,2016,SS,Florida,Keanu Neal,17.0,S,-3.0,0.0,0.0,Demarcus Robinson,126.0,WR,-1.5372,1.4628
+3335,2015,C,Florida,Max Garcia,133.0,C,-7.0,0.0,0.0,D.J. Humphries,24.0,OT,-5.4897,1.5103
+2795,2013,ILB,Florida,Jelani Jenkins,104.0,ILB,-7.0,0.0,0.0,Jon Bostic,50.0,OLB,-5.4897,1.5103
+3113,2014,QB,Fresno St.,Derek Carr,36.0,QB,-7.0,0.0,0.0,Davante Adams,53.0,WR,-5.4897,1.5103
+2826,2018,OT,Ohio St.,Jamarco Jones,168.0,OT,-7.0,0.0,0.0,Billy Price,21.0,C,-5.4285,1.5715
+3158,2010,SS,LSU,Chad Jones,76.0,S,-3.0,0.0,0.0,Brandon LaFell,78.0,WR,-1.4125,1.5875
+3215,2010,OT,Iowa,Kyle Calloway,216.0,OT,-7.0,0.0,0.0,Dace Richardson,,OG,-5.4103,1.5897
+3471,2014,C,Boise St.,Matt Paradis,207.0,C,-7.0,0.0,0.0,Charles Leno,246.0,OG,-5.4103,1.5897
+2887,2014,OG,Boise St.,Charles Leno,246.0,OG,-7.0,0.0,0.0,Matt Paradis,207.0,C,-5.4103,1.5897
+2801,2011,WR,Pittsburgh,Jon Baldwin,26.0,WR,-7.0,0.0,0.0,Pat Devlin,,QB,-5.4103,1.5897
+3139,2010,OLB,Arizona St.,Dexter Davis,236.0,OLB,-7.0,0.0,0.0,Travis Goethel,190.0,ILB,-5.2992,1.7008
+2781,2017,OG,Pittsburgh,Dorian Johnson,115.0,OG,-7.0,0.0,0.0,Adam Bisnowaty,200.0,OT,-5.2992,1.7008
+3400,2016,TE,Ohio St.,Nick Vannett,94.0,TE,-7.0,0.0,0.0,Cardale Jones,139.0,QB,-5.2992,1.7008
+3027,2017,OLB,Alabama,Tim Williams,78.0,OLB,-7.0,0.0,0.0,Ryan Anderson,49.0,OLB,-5.2673,1.7327
+3412,2015,WR,Michigan St.,Keith Mumphery,175.0,WR,-7.0,0.0,0.0,Jeremy Langford,106.0,RB,-5.2221,1.7779
+3254,2009,CB,Oregon,Jairus Byrd,42.0,CB,-7.0,0.0,0.0,Patrick Chung,34.0,S,-5.1563,1.8437
+3379,2015,OG,Alabama,Arie Kouandjio,112.0,OG,-7.0,0.0,0.0,Austin Shepherd,228.0,OT,-5.1563,1.8437
+3273,2009,ILB,USC,Rey Maualuga,38.0,ILB,-7.0,0.0,0.0,Brian Cushing,15.0,OLB,-4.9817,2.0183
+2977,2013,DE,Florida St.,Tank Carradine,40.0,DE,-7.0,0.0,0.0,Bjoern Werner,24.0,DE,-4.9657,2.0343
+2948,2013,DE,Florida St.,Bjoern Werner,24.0,DE,-7.0,0.0,0.0,Tank Carradine,40.0,DE,-4.9657,2.0343
+3386,2015,SS,Stanford,Jordan Richards,64.0,S,-3.0,0.0,0.0,Ty Montgomery,94.0,WR,-0.9657,2.0343
+3098,2019,CB,Washington,Jordan Miller,172.0,CB,-7.0,0.0,0.0,Byron Murphy,33.0,CB,-4.9588,2.0412
+2879,2019,S,Miami (FL),Sheldrick Redwine,119.0,S,-7.0,0.0,0.0,Jaquan Johnson,181.0,S,-4.816,2.184
+2843,2013,ILB,Iowa St.,A.J. Klein,148.0,ILB,-7.0,0.0,0.0,Jake Knott,,OLB,-4.7753,2.2247
+2966,2009,SS,Clemson,Michael Hamlin,166.0,S,-3.0,0.0,0.0,Chris Clemons,165.0,S,-0.6413,2.3587
+3061,2014,DE,South Florida,Aaron Lynch,150.0,DE,-7.0,0.0,0.0,Tevin Mims,,DE,-4.6323,2.3677
+2973,2013,CB,Mississippi St.,Darius Slay,36.0,CB,-7.0,0.0,0.0,Johnthan Banks,43.0,CB,-4.435,2.565
+3447,2013,CB,Mississippi St.,Johnthan Banks,43.0,CB,-7.0,0.0,0.0,Darius Slay,36.0,CB,-4.435,2.565
+3199,2009,DT,Boston Col.,Ron Brace,40.0,DT,-7.0,0.0,0.0,B.J. Raji,9.0,DT,-4.435,2.565
+3304,2013,FS,Nebraska,Daimion Stafford,248.0,S,-3.0,0.0,0.0,Rex Burkhead,190.0,RB,-0.435,2.565
+2902,2016,SS,Clemson,Jayron Kearse,244.0,S,-3.0,0.0,0.0,T.J. Green,57.0,S,-0.435,2.565
+3157,2018,OLB,Ohio St.,Jerome Baker,73.0,OLB,-7.0,0.0,0.0,Chris Worley,,ILB,-4.2673,2.7327
+2844,2015,RB,Georgia,Todd Gurley,10.0,RB,-7.0,0.0,0.0,Chris Conley,76.0,WR,-4.2673,2.7327
+3238,2019,S,USC,Marvell Tell,144.0,S,-7.0,0.0,0.0,Iman Lewis-Marshall,127.0,CB,-4.2673,2.7327
+2952,2017,CB,Florida,Teez Tabor,53.0,CB,-7.0,0.0,0.0,Quincy Wilson,46.0,CB,-4.2671,2.7329
+3297,2016,CB,Ohio St.,Eli Apple,10.0,CB,-7.0,0.0,0.0,Vonn Bell,61.0,S,-4.2129,2.7871
+3242,2017,QB,North Carolina,Mitchell Trubisky,2.0,QB,-7.0,0.0,0.0,Mack Hollins,118.0,WR,-4.197,2.803
+3395,2010,RB,USC,Joe McKnight,112.0,RB,-7.0,0.0,0.0,Damian Williams,77.0,WR,-4.197,2.803
+3344,2010,CB,Oklahoma,Dominique Franks,135.0,CB,-7.0,0.0,0.0,Brian Jackson,,CB,-4.1968,2.8032
+3438,2010,DE,Indiana,Jammie Kirlew,232.0,DE,-7.0,0.0,0.0,Greg Middleton,,DE,-4.1968,2.8032
+3398,2014,WR,Clemson,Sammy Watkins,4.0,WR,-7.0,0.0,0.0,Tajh Boyd,213.0,QB,-4.0791,2.9209
+3031,2017,ILB,Florida,Jarrad Davis,21.0,ILB,-7.0,0.0,0.0,Alex Anzalone,76.0,OLB,-4.07,2.93
+3188,2012,QB,Michigan St.,Kirk Cousins,102.0,QB,-7.0,0.0,0.0,B.J. Cunningham,183.0,WR,-4.07,2.93
+3056,2016,OG,Missouri,Connor McGovern,144.0,OG,-7.0,0.0,0.0,Evan Boehm,128.0,C,-3.9588,3.0412
+3225,2013,CB,North Carolina St.,David Amerson,51.0,CB,-7.0,0.0,0.0,Earl Wolff,136.0,S,-3.9588,3.0412
+3057,2015,OT,Miami (FL),Ereck Flowers,9.0,OT,-7.0,0.0,0.0,Jon Feliciano,128.0,OG,-3.6413,3.3587
+3376,2018,DT,Alabama,Joshua Frazier,246.0,DT,-7.0,0.0,0.0,Daron Payne,13.0,DT,-3.6253,3.3747
+3168,2009,WR,Ohio St.,Brian Hartline,108.0,WR,-7.0,0.0,0.0,Brian Robiskie,36.0,WR,-3.4416,3.5584
+3287,2011,CB,Texas,Aaron Williams,34.0,CB,-7.0,0.0,0.0,Chykie Brown,164.0,CB,-3.4416,3.5584
+2812,2016,CB,Florida,Vernon Hargreaves III,11.0,CB,-7.0,0.0,0.0,Keanu Neal,17.0,S,-3.435,3.565
+3065,2016,OG,Stanford,Joshua Garnett,28.0,OG,-7.0,0.0,0.0,Kyle Murphy,200.0,OT,-3.435,3.565
+2784,2009,RB,Georgia,Knowshon Moreno,12.0,RB,-7.0,0.0,0.0,Mohamed Massaquoi,50.0,WR,-3.435,3.565
+3150,2011,RB,Maryland,Da'Rel Scott,221.0,RB,-7.0,0.0,0.0,Torrey Smith,58.0,WR,-3.435,3.565
+3235,2015,WR,Alabama,Amari Cooper,4.0,WR,-7.0,0.0,0.0,Blake Sims,,QB,-3.435,3.565
+3365,2009,WR,Georgia,Mohamed Massaquoi,50.0,WR,-7.0,0.0,0.0,Knowshon Moreno,12.0,RB,-3.435,3.565
+3284,2018,DE,North Carolina St.,Bradley Chubb,5.0,DE,-7.0,0.0,0.0,Kentavius Street,128.0,DE,-3.2919,3.7081
+3035,2013,WR,Louisiana Tech,Quinton Patton,128.0,WR,-7.0,0.0,0.0,Colby Cameron,,QB,-3.1968,3.8032
+2980,2011,OLB,Syracuse,Doug Hogue,157.0,OLB,-7.0,0.0,0.0,Derrell Smith,,ILB,-3.1968,3.8032
+3136,2019,WR,North Carolina St.,Kelvin Harmon,206.0,WR,-7.0,0.0,0.0,Ryan Finley,104.0,QB,-3.1968,3.8032
+3045,2014,WR,Florida St.,Kelvin Benjamin,28.0,WR,-7.0,0.0,0.0,"James Wilder, Jr.",,RB,-3.1968,3.8032
+3197,2014,WR,Oregon St.,Brandin Cooks,20.0,WR,-7.0,0.0,0.0,Rashaad Reynolds,,CB,-3.0,4.0
+3213,2011,P,Miami (FL),Matt Bosher,192.0,P,-7.0,0.0,0.0,Leonard Hankerson,79.0,WR,-2.9841,4.0159
+3237,2013,DE,LSU,Sam Montgomery,95.0,DE,-7.0,0.0,0.0,Lavar Edwards,142.0,DE,-2.9812,4.0188
+2997,2013,DE,Florida St.,Brandon Jenkins,162.0,DE,-7.0,0.0,0.0,Bjoern Werner,24.0,DE,-2.9812,4.0188
+3077,2013,SS,Notre Dame,Zeke Motta,244.0,S,-3.0,0.0,0.0,Cierre Wood,,RB,1.0211,4.0211
+2807,2014,WR,Clemson,Martavis Bryant,118.0,WR,-7.0,0.0,0.0,Sammy Watkins,4.0,WR,-2.9789,4.0211
+2986,2017,CB,Michigan,Jourdan Lewis,92.0,CB,-7.0,0.0,0.0,Channing Stribling,,CB,-2.9789,4.0211
+3201,2016,WR,Cincinnati,Chris Moore,107.0,WR,-7.0,0.0,0.0,Mekale McKay,,WR,-2.963,4.037
+3217,2012,P,Wisconsin,Brad Nortman,207.0,P,-7.0,0.0,0.0,Nick Toon,122.0,WR,-2.9365,4.0635
+3033,2012,WR,Wisconsin,Nick Toon,122.0,WR,-7.0,0.0,0.0,Brad Nortman,207.0,P,-2.9365,4.0635
+3131,2017,WR,Ohio St.,Curtis Samuel,40.0,WR,-7.0,0.0,0.0,Cameron Johnston,,P,-2.9365,4.0635
+3361,2012,ILB,North Carolina St.,Audie Cole,210.0,ILB,-7.0,0.0,0.0,Terrell Manning,163.0,OLB,-2.9269,4.0731
+2791,2014,DE,Missouri,Kony Ealy,60.0,DE,-7.0,0.0,0.0,Michael Sam,249.0,DE,-2.9268,4.0732
+3321,2009,C,Arkansas,Jonathan Luigs,106.0,C,-7.0,0.0,0.0,Jose Valdez,,OT,-2.8884,4.1116
+3356,2010,WR,Florida,Riley Cooper,159.0,WR,-7.0,0.0,0.0,Tim Tebow,25.0,QB,-2.8884,4.1116
+2996,2012,WR,LSU,Rueben Randle,63.0,WR,-7.0,0.0,0.0,Jordan Jefferson,,QB,-2.8703,4.1297
+3309,2015,WR,USC,Nelson Agholor,20.0,WR,-7.0,0.0,0.0,Josh Shaw,120.0,CB,-2.8571,4.1429
+3267,2016,RB,Florida,Kelvin Taylor,211.0,RB,-7.0,0.0,0.0,Vernon Hargreaves III,11.0,CB,-2.8571,4.1429
+3096,2014,ILB,LSU,Lamin Barrow,156.0,ILB,-7.0,0.0,0.0,Jeremy Hill,55.0,RB,-2.746,4.254
+3440,2015,DT,Auburn,Gabe Wright,113.0,DT,-7.0,0.0,0.0,Reese Dismukes,,C,-2.746,4.254
+2820,2016,RB,Notre Dame,C.J. Prosise,90.0,RB,-7.0,0.0,0.0,Elijah Shumate,,S,-2.746,4.254
+2984,2013,WR,Baylor,Terrance Williams,74.0,WR,-7.0,0.0,0.0,Lanear Sampson,,WR,-2.7249,4.2751
+2875,2010,WR,Clemson,Jacoby Ford,108.0,WR,-7.0,0.0,0.0,C.J. Spiller,9.0,RB,-2.6253,4.3747
+3310,2009,OG,Nebraska,Matt Slauson,193.0,OG,-7.0,0.0,0.0,Lydon Murtha,228.0,OT,-2.6253,4.3747
+3135,2015,RB,Florida,Matt Jones,95.0,RB,-7.0,0.0,0.0,Neiron Ball,161.0,OLB,-2.6031,4.3969
+2821,2016,CB,North Carolina St.,Juston Burris,118.0,CB,-7.0,0.0,0.0,Shadrach Thornton,,RB,-2.6031,4.3969
+3388,2012,K,Georgia,Blair Walsh,175.0,K,-7.0,0.0,0.0,Brandon Boykin,123.0,CB,-2.6031,4.3969
+3401,2018,ILB,Alabama,Shaun dion Hamilton,197.0,ILB,-7.0,0.0,0.0,Bo Scarbrough,236.0,RB,-2.5532,4.4468
+2783,2018,RB,Alabama,Bo Scarbrough,236.0,RB,-7.0,0.0,0.0,Shaun dion Hamilton,197.0,ILB,-2.5532,4.4468
+2853,2018,WR,Penn St.,Daesean Hamilton,113.0,WR,-7.0,0.0,0.0,Marcus Allen,148.0,S,-2.5373,4.4627
+3190,2015,RB,LSU,Kenny Hilliard,235.0,RB,-7.0,0.0,0.0,Kwon Alexander,124.0,OLB,-2.5373,4.4627
+2831,2011,DT,Oregon St.,Stephen Paea,53.0,DT,-7.0,0.0,0.0,Alex Linnenkohl,,C,-2.5373,4.4627
+3306,2010,DT,Alabama,Brandon Deaderick,247.0,DT,-7.0,0.0,0.0,Mike Johnson,98.0,OG,-2.4897,4.5103
+3358,2011,DT,Alabama,Marcell Dareus,3.0,DT,-7.0,0.0,0.0,James Carpenter,25.0,OT,-2.4897,4.5103
+3334,2010,OG,Alabama,Mike Johnson,98.0,OG,-7.0,0.0,0.0,Brandon Deaderick,247.0,DT,-2.4897,4.5103
+3260,2014,RB,Boston Col.,Andre Williams,113.0,RB,-7.0,0.0,0.0,Kevin Pierre-Louis,132.0,OLB,-2.4897,4.5103
+2993,2019,TE,Alabama,Irv Smith,50.0,TE,-7.0,0.0,0.0,Mack Wilson,155.0,LB,-2.4897,4.5103
+2998,2017,DE,Youngstown St.,Avery Moss,167.0,DE,-7.0,0.0,0.0,Derek Rivers,83.0,DE,-2.4891,4.5109
+2819,2016,WR,Mississippi,Laquon Treadwell,23.0,WR,-7.0,0.0,0.0,Cody Core,199.0,WR,-2.4891,4.5109
+3403,2014,OLB,UCLA,Anthony Barr,9.0,OLB,-7.0,0.0,0.0,Cassius Marsh,108.0,DE,-2.4103,4.5897
+2950,2009,SS,Rutgers,Courtney Greene,245.0,S,-3.0,0.0,0.0,Kenny Britt,30.0,WR,1.5926,4.5926
+2933,2018,WR,Texas A&M,Christian Kirk,47.0,WR,-7.0,0.0,0.0,Armani Watts,124.0,S,-2.2992,4.7008
+3125,2019,P,Utah,Mitch Wishnowsky,110.0,P,-7.0,0.0,0.0,Chase Hansen,,LB,-2.2992,4.7008
+3075,2018,S,Texas A&M,Armani Watts,124.0,S,-7.0,0.0,0.0,Christian Kirk,47.0,WR,-2.2992,4.7008
+3015,2012,CB,Alabama,DeQuan Menzie,146.0,CB,-7.0,0.0,0.0,Mark Barron,7.0,S,-2.2919,4.7081
+3104,2013,DT,Notre Dame,Kapron Lewis-Moore,200.0,DT,-7.0,0.0,0.0,Braxston Cave,,C,-2.1563,4.8437
+3469,2011,ILB,Georgia,Akeem Dent,91.0,ILB,-7.0,0.0,0.0,Shaun Chapas,220.0,FB,-2.1563,4.8437
